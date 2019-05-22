@@ -1,0 +1,172 @@
+﻿Nemanja Pejčinović	Serbia	7777	Nemanja Pejčinović	CBRB	31	1	Changchun Yatai
+Victor Sánchez
+	Spain	7777	Victor Sánchez	CDMCMRB	31	1	RCD Espanyol
+Daryl Janmaat	Netherlands	7777	Daryl Janmaat	RB	29	1	Watford
+Michael Lang	Switzerland	7777	Michael Lang	RBRM	28	3	M'gladbach
+Miguel Layún
+	Mexico	7777	Miguel Layún	RBLBRM	30	4	Monterrey
+Fabian Johnson	United States	7777	Fabian Johnson	LMRB	31	0	M'gladbach
+Ignazio Abate	Italy	7777	Ignazio Abate	RB	32	6	Milan
+Dušan Basta	Serbia	7777	Dušan Basta	RBRM	34	6	Lazio
+Youcef Atal	Algeria	7686	Youcef Atal	RBRWBRWLW	22	15	OGC Nice
+Fabricio Bustos	Argentina	7683	Fabricio Bustos	RBLB	23	9	Independiente
+Noussair Mazraoui
+	Morocco	7684	Noussair Mazraoui	RBCM	21	19	Ajax
+Denzel Dumfries	Netherlands	7681	Denzel Dumfries	RB	23	7	PSV
+Victildinho	Brazil	7676	Victildinho	RBRM	35	1	Vitória
+Eltildo Correia	Brazil	7676	Eltildo Correia	CBRBLB	27	1	Atlético Mineiro
+Alexo Baia	Brazil	7676	Alexo Baia	RBRW	31	2	Cruzeiro
+Benjamin Henrichs	Germany	7684	Benjamin Henrichs	RBLBRM	22	9	AS Monaco
+Frédéric Guilbert
+	France	7682	Frédéric GuilbertL	RBRMCB	24	3	SM Caen
+Aritz Elustondo	Spain	7680	Aritz Elustondo	CBRB	25	1	Real Sociedad
+Timo Baumgartl	Germany	7681	Timo Baumgartl	CBRB	23	2	VfB Stuttgart
+Silvan Widmer	Switzerland	7678	Silvan Widmer	RBRM	26	3	FC Basel
+Tin Jedvaj	Croatia	7683	Tin Jedvaj	CBRBLB	23	3	Leverkusen
+Youssouf Sabaly
+	Senegal	7677	Youssouf Sabaly	RBLB	26	3	Girondins de Bx
+Rúben Vezo	Portugal	7681	Rúben VezoL	CBRB	25	2	Levante UD
+Milton Casco	Argentina	7676	Milton Casco	LBRB	31	4	River Plate
+DeAndre Yedlin	United States	7681	DeAndre Yedlin	RBRWB	25	11	Newcastle Utd
+Matthew Lowton	England	7676	Matthew Lowton	RB	29	2	Burnley
+Danilo D'Ambrosio	Italy	7676	Danilo D'Ambrosio	RBLB	30	3	Inter
+Rômulo
+	Italy	7676	RômuloL	RMCMRB	31	3	Lazio
+Júnior Caiçara	Brazil	7676	Júnior Caiçara	RBRM	30	2	Başakşehir
+Adam Smith	England	7676	Adam Smith	LBRB	28	2	Bournemouth
+Kiko Femenía	Spain	7676	Kiko Femenía	RBRM	28	1	Watford
+Davide Santon	Italy	7676	Davide Santon	LBRB	28	2	Roma
+Daniel Brosinski	Germany	7676	Daniel Brosinski	RBRWBLB	30	6	1. FSV Mainz 05
+Miguel Lopes
+	Portugal	7676	Miguel Lopes	RBCB	32	2	Akhisarspor
+Theodor Gebre Selassie	Czech Republic	7676	Theodor Gebre Selassie	RBRM	32	2	Werder Bremen
+Matteo Darmian	Italy	7676	Matteo Darmian	LBRB	29	5	Manchester Utd
+Facundo Roncaglia	Argentina	7676	Facundo RoncagliaL	CBRB	32	1	Valencia CF
+Håvard Nordtveit	Norway	7677	Håvard NordtveitL	CBCDMRB	28	1	Fulham
+Barragán
+	Spain	7676	Barragán	RWBRBRM	31	2	Real Betis
+Rafinha	Brazil	7676	Rafinha	RBLB	33	9	FC Bayern
+Léo Matos	Brazil	7676	Léo Matos	RBLBRM	33	1	PAOK
+Gökhan Gönül	Turkey	7676	Gökhan Gönül	RB	34	2	Beşiktaş
+Pablo Zabaleta
+	Argentina	7676	Pablo Zabaleta	RB	34	6	West Ham
+Stephan Lichtsteiner	Switzerland	7676	Stephan Lichtsteiner	RBCBRWB	35	4	Arsenal
+Martín	Spain	7580	Martín	RB	22	3	D. Alavés
+Francis	Spain	7583	Francis	RMRWBRB	23	1	Real Betis
+Edson Álvarez	Mexico	7583	Edson Álvarez	CDMCBRB	21	4	América
+Dylan Bronn
+	Tunisia	7582	Dylan Bronn	CBRB	23	2	KAA Gent
+Panagiotis Retsos	Greece	7585	Panagiotis Retsos	CBRBLB	20	4	Leverkusen
+Bernardo	Brazil	7580	Bernardo	LBRB	23	2	Brighton
+Gonzalo Montiel
+	Argentina	7582	Gonzalo Montiel	RBCB	22	5	River Plate
+Kelvin Amian	France	7583	Kelvin Amian	RBCBRWB	21	5	Toulouse FC
+Otávio Cairinho	Brazil	7575	Otávio Cairinho	CBRB	27	3	Internacional
+Bruno Valdez	Paraguay	7577	Bruno Valdez	CBRB	26	0	América
+Lekue	Spain	7577	Lekue	RBLWLBRW	26	0	Athletic Club
+Mason Holgate	England	7581	Mason HolgateL	RBCB	22	6	West Brom
+Bustinza	Spain	7578	Bustinza	CBRB	27	2	CD Leganés
+Mehmet Zeki Çelik	Turkey	7584	Mehmet Zeki Çelik	RB	22	4	LOSC Lille
+Andrea Conti	Italy	7578	Andrea Conti	RMRB	25	1	Milan
+Rick Karsdorp	Netherlands	7580	Rick Karsdorp	RB	24	5	Roma
+Pablo Maffeo
+	Spain	7583	Pablo Maffeo	RWBRMRB	21	1	VfB Stuttgart
+Zaldúa	Spain	7578	Zaldúa	RB	26	1	Real Sociedad
+Jorge Figal	Argentina	7581	Jorge Figal	CBRB	25	1	Independiente
+Hamari Traoré	Mali	7576	Hamari Traoré	RB	27	3	Stade Rennais
+Valentino Lazaro	Austria	7580	Valentino Lazaro	RBRMCAM	23	9	Hertha BSC
+Tomasz Kędziora	Poland	7580	Tomasz Kędziora	RB	24	6	Dynamo Kyiv
+Joshua Brenet	Netherlands	7577	Joshua Brenet	LWBLBRBRWB	25	2	TSG Hoffenheim
+Thomas Foket	Belgium	7580	Thomas Foket	RB	24	3	Stade de Reims
+Erik Durm	Germany	7577	Erik Durm	RWBLWBLBRB	26	5	Huddersfield
+Bogdan Butko	Ukraine	7575	Bogdan Butko	RB	28	2	Shakhtar Donetsk
+Mykola Morozyuk	Ukraine	7575	Mykola Morozyuk	RBRMLBLM	31	1	Çaykur Rizespor
+Bouna Sarr
+	France	7576	Bouna Sarr	RBRM	27	1	OM
+Ximo Navarro	Spain	7575	Ximo Navarro	CBRB	29	2	D. Alavés
+James Tavernier	England	7576	James Tavernier	RB	27	3	Rangers
+Javi López	Spain	7575	Javi López	RBRWB	33	2	RCD Espanyol
+Craig Dawson	England	7575	Craig Dawson	CBRB	29	2	West Brom
+Stefan Ilsanker	Austria	7575	Stefan Ilsanker	CDMCBRB	29	2	RB Leipzig
+Vladislav Ignatiev	Russia	7575	Vladislav Ignatiev	RBRMLM	32	0	Lokomotiv Moscow
+Kévin Théophile-Catherine	France	7576	Kévin Théophile-Catherine	CBRB	29	1	Dinamo Zagreb
+Peter Pekarík	Slovakia	7575	Peter Pekarík	RB	32	3	Hertha BSC
+Omar Elabdellaoui	Norway	7576	Omar Elabdellaoui	RB	27	3	Olympiacos CFP
+Tony Jantschke	Germany	7575	Tony Jantschke	RBCB	29	4	M'gladbach
+Marcel Risse	Germany	7575	Marcel Risse	RMRB	29	2	Köln
+Leon Balogun	Nigeria	7575	Leon Balogun	CBRB	30	3	Brighton
+Mauricio Isla	Chile	7575	Mauricio Isla	RBCM	30	4	Fenerbahçe
+Martin Kelly	England	7576	Martin Kelly	CBRB	29	4	Crystal Palace
+Maximiliano Pereira
+	Uruguay	7575	Maximiliano Pereira	RB	34	1	FC Porto
+Lorenzo De Silvestri	Italy	7575	Lorenzo De Silvestri	RMRB	30	0	Torino
+Christian Maggio	Italy	7575	Christian Maggio	RB	37	1	Benevento
+Vladimír Coufal	Czech Republic	7477	Vladimír Coufal	RB	26	0	Slavia Praha
+Mykyta Burda	Ukraine	7481	Mykyta Burda	CBRBLB	24	1	Dynamo Kyiv
+Félix Eboa Eboa	Cameroon	7481	Félix Eboa Eboa	CBRB	22	2	EA Guingamp
+Nikola Milenković	Serbia	7483	Nikola Milenković	RBCB	21	4	Fiorentina
+Pol Lirola	Spain	7480	Pol Lirola	RBRM	21	4	Sassuolo
+Valentin Rosier	France	7481	Valentin Rosier	RBRWB	22	2	Dijon FCO
+Diogo Dalot	Portugal	7485	Diogo Dalot	RBRW	20	14	Manchester Utd
+Marc Navarro	Spain	7479	Marc Navarro	RB	23	0	Watford
+Duirval Diniz	Brazil	7474	Duirval Diniz	CBRB	35	0	Atl. Paranaense
+Jesus Andradaldo	Brazil	7474	Jesus Andradaldo	RB	27	1	Internacional
+Kauã Abranches	Brazil	7474	Kauã Abranches	CAMRMRB	35	0	Paraná
+Osvaldo Lodeiro	Brazil	7474	Osvaldo Lodeiro	CBRBLB	31	1	América
+Jailson Caeiro	Brazil	7474	Jailson Caeiro	RBRM	27	1	Botafogo
+Jorge Miramón	Spain	7474	Jorge Miramón	RBRWB	29	2	SD Huesca
+William	Brazil	7479	William	RBLB	24	2	VfL Wolfsburg
+Almamy Touré	Mali	7479	Almamy Touré	RBCB	23	5	Frankfurt
+Camilo Mayada	Uruguay	7474	Camilo Mayada	RBLBRM	28	3	River Plate
+Ola Aina
+	Nigeria	7483	Ola AinaL	LMRMRB	22	5	Torino
+Şener Özbayraklı	Turkey	7474	Şener Özbayraklı	RB	29	2	Fenerbahçe
+Timothy Castagne
+	Belgium	7483	Timothy Castagne	LMRMRB	23	5	Atalanta
+Florent Hadergjonaj	Switzerland	7480	Florent Hadergjonaj	RWBRB	24	3	Huddersfield
+Thulani Hlatshwayo	South Africa	7475	Thulani Hlatshwayo	CBRB	29	0	Free Agents
+Leonardo Jara	Argentina	7475	Leonardo JaraL	RBRWB	27	3	D.C. United
+Julio Buffarini	Argentina	7474	Julio Buffarini	RB	30	4	Buenos Aires
+Daniel Bocanegra
+	Colombia	7474	Daniel Bocanegra	CBRB	32	2	Atl. Nacional
+Vincent Laurini	France	7474	Vincent Laurini	RB	29	1	Fiorentina
+Edgar Ié	Portugal	7481	Edgar IéL	CBRB	25	0	FC Nantes
+Clinton Mata	Angola	7475	Clinton Mata	CBRBRM	26	2	Club Brugge
+João Pereira
+	Portugal	7474	João Pereira	RB	35	1	Trabzonspor
+Luis Advíncula	Peru	7474	Luis AdvínculaL	RBRWB	29	6	Rayo Vallecano
+Julian Korb	Germany	7474	Julian Korb	RBRWBRM	27	1	Hannover 96
+Jan Bořil	Czech Republic	7474	Jan Bořil	RBLB	28	2	Slavia Praha
+Emir Dilaver
+	Austria	7476	Emir Dilaver	CBRB	28	1	Dinamo Zagreb
+Dimitri Foulquier
+	France	7475	Dimitri FoulquierL	RMRB	26	2	Getafe CF
+Jonathan Schmid	France	7474	Jonathan Schmid	RBRMRWB	28	2	FC Augsburg
+Bartosz Bereszyński	Poland	7477	Bartosz Bereszyński	RB	26	4	Sampdoria
+Jonas Svensson	Norway	7477	Jonas Svensson	RBCM	26	1	AZ
+Martin Linnes	Norway	7474	Martin Linnes	RBLB	27	1	Galatasaray
+José Pedro Fuenzalida	Chile	7474	José Pedro Fuenzalida	RWRMRB	34	2	Uni. Católica
+Yuto Nagatomo	Japan	7474	Yuto Nagatomo	LBRB	32	0	Galatasaray
+Jens Stryger Larsen	Denmark	7474	Jens Stryger Larsen	RBCBRM	28	2	Udinese
+Allan Nyom
+	Cameroon	7474	Allan NyomL	RWBRB	30	1	CD Leganés
+Luis Rodríguez	Mexico	7474	Luis Rodríguez	RBRWB	28	1	Tigres
+Sébastien Corchia	France	7474	Sébastien CorchiaL	RB	28	3	SL Benfica
+Ramalho	Spain	7478	Ramalho	CBRB	25	1	Girona FC
+Dennis Diekmeier	Germany	7474	Dennis Diekmeier	RBRWB	29	2	Sandhausen
+Bruno Ecuélé Manga	Gabon	7474	Bruno Ecuélé Manga	CBRB	30	3	Cardiff City
+Juanfran	Spain	7474	JuanfranL	RB	30	2	CD Leganés
+Roberto Rosales	Venezuela	7474	Roberto RosalesL	RBRWBRM	30	2	RCD Espanyol
+Andreas Beck	Germany	7474	Andreas Beck	RBRWB	32	1	VfB Stuttgart
+Baiano	Brazil	7474	Baiano	RB	32	1	Alanyaspor
+Crespo	Spain	7474	Crespo	CBRBLB	32	1	PAOK
+Paul Aguilar	Mexico	7474	Paul Aguilar	RB	33	4	América
+Andrey Eschenko	Russia	7474	Andrey Eschenko	RB	35	0	Spartak Moscow
+Jakub Błaszczykowski	Poland	7474	Jakub Błaszczykowski	RMRBRW	33	9	Wisła Kraków
+David Limberský
+	Czech Republic	7474	David Limberský	LBRBCB	35	1	Viktoria Plzeň
+Andrea Raggi	Italy	7474	Andrea Raggi	CBLBRB	34	1	AS Monaco
+Christophe Jallet
+	France	7474	Christophe Jallet	RBLB	35	3	OGC Nice
+Bruno Saltor	Spain	7474	Bruno Saltor	RB	38	2	Brighton
+Lukáš Masopust	Czech Republic	7374	Lukáš Masopust	RMRWRBLM	26	0	Slavia Praha
