@@ -1,0 +1,239 @@
+,Player,Country,Age,Club
+0,Joshua Kimmich,Germany,24.0,FC Bayern
+1,Carvajal,Spain,27.0,Real Madrid
+2,Azpilicueta,Spain,29.0,Chelsea
+3,Kyle Walker,England,28.0,Manchester City
+4,João Cancelo,Portugal,24.0,Juventus
+5,Nacho Fernández,Spain,29.0,Real Madrid
+6,Sergi Roberto,Spain,27.0,FC Barcelona
+7,Alessandro Florenzi,Italy,28.0,Roma
+8,Thomas Meunier,Belgium,27.0,Paris
+10,Jesús Corona,Mexico,26.0,FC Porto
+11,Lars Bender,Germany,30.0,Leverkusen
+12,Dani Alves,Brazil,36.0,Paris
+13,Nélson Semedo,Portugal,25.0,FC Barcelona
+14,Ricardo Pereira,Portugal,25.0,Leicester City
+15,Šime Vrsaljko,Croatia,27.0,Inter
+16,Kieran Trippier,England,28.0,Spurs
+17,Łukasz Piszczek,Poland,33.0,Dortmund
+18,Jesús Navas,Spain,33.0,Sevilla FC
+20,Éder Militão,Brazil,21.0,FC Porto
+21,Odriozola,Spain,23.0,Real Madrid
+23,Trent Alexander-Arnold,England,20.0,Liverpool
+24,Elseid Hysaj,Albania,25.0,Napoli
+25,Héctor Bellerín,Spain,24.0,Arsenal
+26,Pavel Kadeřábek,Czech Republic,27.0,TSG Hoffenheim
+27,Domagoj Vida,Croatia,30.0,Beşiktaş
+29,Serge Aurier,Ivory Coast,26.0,Spurs
+30,André Almeida,Portugal,28.0,SL Benfica
+32,Maikel Catarino,Brazil,35.0,Atlético Mineiro
+33,Benjamin Pavard,France,23.0,VfB Stuttgart
+34,Thilo Kehrer,Germany,22.0,Paris
+35,Davide Zappacosta,Italy,26.0,Chelsea
+36,Rubén Peña,Spain,27.0,SD Eibar
+37,Santiago Arias,Colombia,27.0,Atlético Madrid
+38,Danny da Costa,Germany,25.0,Frankfurt
+39,Danilo,Brazil,27.0,Manchester City
+40,Daniel Caligiuri,Italy,31.0,Schalke
+41,Hugo Mallo,Spain,27.0,RC Celta
+43,Rafael,Brazil,28.0,OL
+44,Sebastian Rudy,Germany,29.0,Schalke
+45,Mariano,Brazil,32.0,Galatasaray
+46,Gabriel Mercado,Argentina,32.0,Sevilla FC
+47,Séamus Coleman,Republic of Ireland,30.0,Everton
+49,Daniel Wass,Denmark,29.0,Valencia CF
+50,Mathieu Debuchy,France,33.0,ASSE
+51,Ashley Young,England,33.0,Manchester Utd
+52,Achraf Hakimi,Morocco,20.0,Dortmund
+53,Everticinho,Brazil,31.0,Grêmio
+55,Aaron Wan-Bissaka,England,21.0,Crystal Palace
+56,Davide Calabria,Italy,22.0,Milan
+57,Joe Gomez,England,21.0,Liverpool
+58,Ruben Aguilar,France,26.0,Montpellier HSC
+60,Lukas Klostermann,Germany,22.0,RB Leipzig
+61,Nico Elvedi,Switzerland,22.0,M'gladbach
+62,Léo Dubois,France,24.0,OL
+63,Marcelo Goiano,Brazil,31.0,SC Braga
+64,Capa,Spain,27.0,Athletic Club
+65,Hiroki Sakai,Japan,29.0,OM
+66,Mattia De Sciglio,Italy,26.0,Juventus
+67,Kenny Lala,France,27.0,RC Strasbourg
+69,Damián Suárez,Uruguay,31.0,Getafe CF
+70,Djibril Sidibé,France,26.0,AS Monaco
+71,Mario Gaspar,Spain,28.0,Villarreal CF
+72,Nathaniel Clyne,England,28.0,Bournemouth
+73,De Marcos,Spain,30.0,Athletic Club
+74,Martín Cáceres,Uruguay,32.0,Juventus
+75,Coke,Spain,32.0,Levante UD
+76,Antonio Valencia,Ecuador,33.0,Manchester Utd
+77,Adriano,Brazil,34.0,Beşiktaş
+78,Darijo Srna,Croatia,37.0,Cagliari
+80,Joakim Mæhle,Denmark,21.0,KRC Genk
+81,Nordi Mukiele,France,21.0,RB Leipzig
+82,Konrad Laimer,Austria,21.0,RB Leipzig
+83,Marius Wolf,Germany,23.0,Dortmund
+84,Stefan Lainer,Austria,26.0,RB Salzburg
+86,Hans Hateboer,Netherlands,25.0,Atalanta
+87,Kenny Tete,Netherlands,23.0,OL
+89,Renzo Saravia,Argentina,25.0,Racing Club
+90,Ricardo Esgaio,Portugal,25.0,SC Braga
+91,Kevin Mbabu,Switzerland,24.0,BSC Young Boys
+93,Joël Veltman,Netherlands,27.0,Ajax
+94,Mitchell Weiser,Germany,25.0,Leverkusen
+95,Stefan Ristovski,FYR Macedonia,27.0,Sporting CP
+96,Aleix Vidal,Spain,29.0,Sevilla FC
+97,Timmy Chandler,United States,29.0,Frankfurt
+98,Cristiano Piccini,Italy,26.0,Valencia CF
+99,Cédric,Portugal,27.0,Inter
+100,Arbilla,Spain,31.0,SD Eibar
+101,Kévin Malcuit,France,27.0,Napoli
+102,Montoya,Spain,28.0,Brighton
+103,Nemanja Pejčinović,Serbia,31.0,Changchun Yatai
+105,Victor Sánchez,Spain,31.0,RCD Espanyol
+106,Daryl Janmaat,Netherlands,29.0,Watford
+107,Michael Lang,Switzerland,28.0,M'gladbach
+109,Miguel Layún,Mexico,30.0,Monterrey
+110,Fabian Johnson,United States,31.0,M'gladbach
+111,Ignazio Abate,Italy,32.0,Milan
+112,Dušan Basta,Serbia,34.0,Lazio
+113,Youcef Atal,Algeria,22.0,OGC Nice
+114,Fabricio Bustos,Argentina,23.0,Independiente
+116,Noussair Mazraoui,Morocco,21.0,Ajax
+117,Denzel Dumfries,Netherlands,23.0,PSV
+118,Victildinho,Brazil,35.0,Vitória
+119,Eltildo Correia,Brazil,27.0,Atlético Mineiro
+120,Alexo Baia,Brazil,31.0,Cruzeiro
+121,Benjamin Henrichs,Germany,22.0,AS Monaco
+123,Frédéric Guilbert,France,24.0,SM Caen
+124,Aritz Elustondo,Spain,25.0,Real Sociedad
+125,Timo Baumgartl,Germany,23.0,VfB Stuttgart
+126,Silvan Widmer,Switzerland,26.0,FC Basel
+127,Tin Jedvaj,Croatia,23.0,Leverkusen
+129,Youssouf Sabaly,Senegal,26.0,Girondins de Bx
+130,Rúben Vezo,Portugal,25.0,Levante UD
+131,Milton Casco,Argentina,31.0,River Plate
+132,DeAndre Yedlin,United States,25.0,Newcastle Utd
+133,Matthew Lowton,England,29.0,Burnley
+134,Danilo D'Ambrosio,Italy,30.0,Inter
+136,Rômulo,Italy,31.0,Lazio
+137,Júnior Caiçara,Brazil,30.0,Başakşehir
+138,Adam Smith,England,28.0,Bournemouth
+139,Kiko Femenía,Spain,28.0,Watford
+140,Davide Santon,Italy,28.0,Roma
+141,Daniel Brosinski,Germany,30.0,1. FSV Mainz 05
+143,Miguel Lopes,Portugal,32.0,Akhisarspor
+144,Theodor Gebre Selassie,Czech Republic,32.0,Werder Bremen
+145,Matteo Darmian,Italy,29.0,Manchester Utd
+146,Facundo Roncaglia,Argentina,32.0,Valencia CF
+147,Håvard Nordtveit,Norway,28.0,Fulham
+149,Barragán,Spain,31.0,Real Betis
+150,Rafinha,Brazil,33.0,FC Bayern
+151,Léo Matos,Brazil,33.0,PAOK
+152,Gökhan Gönül,Turkey,34.0,Beşiktaş
+154,Pablo Zabaleta,Argentina,34.0,West Ham
+155,Stephan Lichtsteiner,Switzerland,35.0,Arsenal
+156,Martín,Spain,22.0,D. Alavés
+157,Francis,Spain,23.0,Real Betis
+158,Edson Álvarez,Mexico,21.0,América
+160,Dylan Bronn,Tunisia,23.0,KAA Gent
+161,Panagiotis Retsos,Greece,20.0,Leverkusen
+162,Bernardo,Brazil,23.0,Brighton
+164,Gonzalo Montiel,Argentina,22.0,River Plate
+165,Kelvin Amian,France,21.0,Toulouse FC
+166,Otávio Cairinho,Brazil,27.0,Internacional
+167,Bruno Valdez,Paraguay,26.0,América
+168,Lekue,Spain,26.0,Athletic Club
+169,Mason Holgate,England,22.0,West Brom
+170,Bustinza,Spain,27.0,CD Leganés
+171,Mehmet Zeki Çelik,Turkey,22.0,LOSC Lille
+172,Andrea Conti,Italy,25.0,Milan
+173,Rick Karsdorp,Netherlands,24.0,Roma
+175,Pablo Maffeo,Spain,21.0,VfB Stuttgart
+176,Zaldúa,Spain,26.0,Real Sociedad
+177,Jorge Figal,Argentina,25.0,Independiente
+178,Hamari Traoré,Mali,27.0,Stade Rennais
+179,Valentino Lazaro,Austria,23.0,Hertha BSC
+180,Tomasz Kędziora,Poland,24.0,Dynamo Kyiv
+181,Joshua Brenet,Netherlands,25.0,TSG Hoffenheim
+182,Thomas Foket,Belgium,24.0,Stade de Reims
+183,Erik Durm,Germany,26.0,Huddersfield
+184,Bogdan Butko,Ukraine,28.0,Shakhtar Donetsk
+185,Mykola Morozyuk,Ukraine,31.0,Çaykur Rizespor
+187,Bouna Sarr,France,27.0,OM
+188,Ximo Navarro,Spain,29.0,D. Alavés
+189,James Tavernier,England,27.0,Rangers
+190,Javi López,Spain,33.0,RCD Espanyol
+191,Craig Dawson,England,29.0,West Brom
+192,Stefan Ilsanker,Austria,29.0,RB Leipzig
+193,Vladislav Ignatiev,Russia,32.0,Lokomotiv Moscow
+194,Kévin Théophile-Catherine,France,29.0,Dinamo Zagreb
+195,Peter Pekarík,Slovakia,32.0,Hertha BSC
+196,Omar Elabdellaoui,Norway,27.0,Olympiacos CFP
+197,Tony Jantschke,Germany,29.0,M'gladbach
+198,Marcel Risse,Germany,29.0,Köln
+199,Leon Balogun,Nigeria,30.0,Brighton
+200,Mauricio Isla,Chile,30.0,Fenerbahçe
+201,Martin Kelly,England,29.0,Crystal Palace
+203,Maximiliano Pereira,Uruguay,34.0,FC Porto
+204,Lorenzo De Silvestri,Italy,30.0,Torino
+205,Christian Maggio,Italy,37.0,Benevento
+206,Vladimír Coufal,Czech Republic,26.0,Slavia Praha
+207,Mykyta Burda,Ukraine,24.0,Dynamo Kyiv
+208,Félix Eboa Eboa,Cameroon,22.0,EA Guingamp
+209,Nikola Milenković,Serbia,21.0,Fiorentina
+210,Pol Lirola,Spain,21.0,Sassuolo
+211,Valentin Rosier,France,22.0,Dijon FCO
+212,Diogo Dalot,Portugal,20.0,Manchester Utd
+213,Marc Navarro,Spain,23.0,Watford
+214,Duirval Diniz,Brazil,35.0,Atl. Paranaense
+215,Jesus Andradaldo,Brazil,27.0,Internacional
+216,Kauã Abranches,Brazil,35.0,Paraná
+217,Osvaldo Lodeiro,Brazil,31.0,América
+218,Jailson Caeiro,Brazil,27.0,Botafogo
+219,Jorge Miramón,Spain,29.0,SD Huesca
+220,William,Brazil,24.0,VfL Wolfsburg
+221,Almamy Touré,Mali,23.0,Frankfurt
+222,Camilo Mayada,Uruguay,28.0,River Plate
+224,Ola Aina,Nigeria,22.0,Torino
+225,Şener Özbayraklı,Turkey,29.0,Fenerbahçe
+227,Timothy Castagne,Belgium,23.0,Atalanta
+228,Florent Hadergjonaj,Switzerland,24.0,Huddersfield
+229,Thulani Hlatshwayo,South Africa,29.0,Free Agents
+230,Leonardo Jara,Argentina,27.0,D.C. United
+231,Julio Buffarini,Argentina,30.0,Buenos Aires
+233,Daniel Bocanegra,Colombia,32.0,Atl. Nacional
+234,Vincent Laurini,France,29.0,Fiorentina
+235,Edgar Ié,Portugal,25.0,FC Nantes
+236,Clinton Mata,Angola,26.0,Club Brugge
+238,João Pereira,Portugal,35.0,Trabzonspor
+239,Luis Advíncula,Peru,29.0,Rayo Vallecano
+240,Julian Korb,Germany,27.0,Hannover 96
+241,Jan Bořil,Czech Republic,28.0,Slavia Praha
+243,Emir Dilaver,Austria,28.0,Dinamo Zagreb
+245,Dimitri Foulquier,France,26.0,Getafe CF
+246,Jonathan Schmid,France,28.0,FC Augsburg
+247,Bartosz Bereszyński,Poland,26.0,Sampdoria
+248,Jonas Svensson,Norway,26.0,AZ
+249,Martin Linnes,Norway,27.0,Galatasaray
+250,José Pedro Fuenzalida,Chile,34.0,Uni. Católica
+251,Yuto Nagatomo,Japan,32.0,Galatasaray
+252,Jens Stryger Larsen,Denmark,28.0,Udinese
+254,Allan Nyom,Cameroon,30.0,CD Leganés
+255,Luis Rodríguez,Mexico,28.0,Tigres
+256,Sébastien Corchia,France,28.0,SL Benfica
+257,Ramalho,Spain,25.0,Girona FC
+258,Dennis Diekmeier,Germany,29.0,Sandhausen
+259,Bruno Ecuélé Manga,Gabon,30.0,Cardiff City
+260,Juanfran,Spain,30.0,CD Leganés
+261,Roberto Rosales,Venezuela,30.0,RCD Espanyol
+262,Andreas Beck,Germany,32.0,VfB Stuttgart
+263,Baiano,Brazil,32.0,Alanyaspor
+264,Crespo,Spain,32.0,PAOK
+265,Paul Aguilar,Mexico,33.0,América
+266,Andrey Eschenko,Russia,35.0,Spartak Moscow
+267,Jakub Błaszczykowski,Poland,33.0,Wisła Kraków
+269,David Limberský,Czech Republic,35.0,Viktoria Plzeň
+270,Andrea Raggi,Italy,34.0,AS Monaco
+272,Christophe Jallet,France,35.0,OGC Nice
+273,Bruno Saltor,Spain,38.0,Brighton
+274,Lukáš Masopust,Czech Republic,26.0,Slavia Praha
