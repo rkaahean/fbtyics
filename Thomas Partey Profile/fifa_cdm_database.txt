@@ -1,0 +1,602 @@
+N'Golo Kanté	France	8990	N'Golo Kanté	CDMCM	28	13	Chelsea
+Sergio Busquets	Spain	8989	Sergio Busquets	CDMCM	30	7	FC Barcelona
+Casemiro	Brazil	8789	Casemiro	CDM	27	5	Real Madrid
+Thiago	Spain	8787	Thiago	CMCAMCDM	28	5	FC Bayern
+Ivan Rakitic	Croatia	8787	Ivan Rakitic	CMCDM	31	4	FC Barcelona
+Fernandinho	Brazil	8787	Fernandinho	CDM	34	4	Manchester City
+Joshua Kimmich	Germany	8688	Joshua Kimmich	RBCMCDM	24	3	FC Bayern
+Marco Verratti	Italy	8689	Marco Verratti	CMCDM	26	5	Paris
+Miralem Pjanic	Bosnia Herzegovina	8686	Miralem Pjanic	CMCDM	29	4	Juventus
+Fabinho	Brazil	8589	Fabinho	CDM	25	7	Liverpool
+Marquinhos	Brazil	8590	Marquinhos	CBCDM	25	4	Paris
+Paulinho	Brazil	8585	Paulinho	CMCAMCDMRM	30	3	Guangzhou
+Arturo Vidal	Chile	8585	Arturo Vidal	CMCDM	32	2	FC Barcelona
+Axel Witsel	Belgium	8585	Axel Witsel	CDMCM	30	4	Dortmund
+Blaise Matuidi	France	8585	Blaise Matuidi	CDMCM	32	6	Juventus
+Frenkie de Jong	Netherlands	8490	Frenkie de Jong	CMCDM	22	13	Ajax
+Leon Goretzka	Germany	8488	Leon Goretzka	CMCAMCDM	24	3	FC Bayern
+Illarramendi	Spain	8484	Illarramendi	CDMCM	29	0	Real Sociedad
+Ilkay Gündogan	Germany	8484	Ilkay Gündogan	CMCDM	28	2	Manchester City
+Sami Khedira	Germany	8484	Sami Khedira	CMCDM	32	0	Juventus
+Éver Banega	Argentina	8484	Éver Banega	CMCDMCAM	30	0	Sevilla FC
+Lucas Leiva	Brazil	8484	Lucas Leiva	CDM	32	2	Lazio
+Rodri	Spain	8388	Rodri	CDMCM	22	5	Atlético Madrid
+Naby Keïta	Guinea	8388	Naby Keïta	CMCDMCAM	24	1	Liverpool
+Corentin Tolisso	France	8388	Corentin Tolisso	CMCDM	24	1	FC Bayern
+Adrien Rabiot	France	8387	Adrien Rabiot	CMCDM	24	3	Paris
+Danilo Pereira	Portugal	8385	Danilo Pereira	CDMCM	27	0	FC Porto
+Kevin Kampl	Slovenia	8383	Kevin Kampl	CMCAMCDM	28	4	RB Leipzig
+Idrissa Gueye	Senegal	8383	Idrissa Gueye	CDM	29	1	Everton
+Nemanja Matic	Serbia	8383	Nemanja Matic	CDMCM	30	6	Manchester Utd
+Georginio Wijnaldum	Netherlands	8383	Georginio Wijnaldum	CMCDM	28	8	Liverpool
+Javi Martínez	Spain	8383	Javi Martínez	CDMCB	30	0	FC Bayern
+Daniele De Rossi	Italy	8383	Daniele De Rossi	CDM	35	2	Roma
+Rosberto Dourado	Brazil	8282	Rosberto Dourado	CDMCM	31	0	Atlético Mineiro
+Juiano Mestres	Brazil	8282	Juiano Mestres	CBCDM	35	0	Cruzeiro
+Fabián	Spain	8290	Fabián	CMCDMCAM	23	7	Napoli
+Lucas Torreira	Uruguay	8287	Lucas Torreira	CDMCM	23	10	Arsenal
+Thomas Partey	Ghana	8288	Thomas Partey	CDMCMRM	25	5	Atlético Madrid
+William Carvalho	Portugal	8285	William Carvalho	CDMCM	27	3	Real Betis
+Charles Aránguiz	Chile	8282	Charles Aránguiz	CMCDM	30	0	Leverkusen
+Thomas Delaney	Denmark	8283	Thomas Delaney	CDMCM	27	2	Dortmund
+Ander Herrera	Spain	8282	Ander Herrera	CMCDM	29	2	Manchester Utd
+Daley Blind	Netherlands	8282	Daley Blind	CBLBCDM	29	3	Ajax
+Luiz Gustavo	Brazil	8282	Luiz Gustavo	CDMCB	31	0	OM
+Jordan Henderson	England	8282	Jordan Henderson	CDMCM	28	4	Liverpool
+Marco Parolo	Italy	8282	Marco Parolo	CDMCM	34	2	Lazio
+Lars Bender	Germany	8282	Lars Bender	CDMRBCM	30	1	Leverkusen
+Andrés Guardado	Mexico	8282	Andrés Guardado	CMCDMLM	32	3	Real Betis
+Cesc Fàbregas	Spain	8282	Cesc Fàbregas	CMCDM	32	6	AS Monaco
+Moussa Dembélé	Belgium	8282	Moussa Dembélé	CMCDM	31	3	Guangzhou R&F
+Lucas Biglia	Argentina	8282	Lucas Biglia	CDMCM	33	0	Milan
+Tanguy Ndombele	France	8189	Tanguy Ndombele	CMCDM	22	6	OL
+Wilfred Ndidi	Nigeria	8185	Wilfred Ndidi	CDMCM	22	2	Leicester City
+Tiémoué Bakayoko	France	8186	Tiémoué BakayokoL	CDMCM	24	14	Milan
+Marcelo Brozovic	Croatia	8183	Marcelo Brozovic	CDMCM	26	2	Inter
+Dani García	Spain	8182	Dani García	CDMCM	29	0	Athletic Club
+Abdoulaye Doucouré	France	8184	Abdoulaye Doucouré	CDMCM	26	3	Watford
+Matthias Ginter	Germany	8183	Matthias Ginter	CBCDM	25	1	M'gladbach
+Christoph Kramer	Germany	8182	Christoph Kramer	CDMCM	28	0	M'gladbach
+Salif Sané	Senegal	8181	Salif Sané	CBCDM	28	1	Schalke
+Geoffrey Kondogbia	Central African Rep.	8184	Geoffrey Kondogbia	CMCDM	26	3	Valencia CF
+Granit Xhaka	Switzerland	8184	Granit Xhaka	CMCDM	26	6	Arsenal
+Kevin Strootman	Netherlands	8181	Kevin Strootman	CDMCM	29	1	OM
+Sven Bender	Germany	8181	Sven Bender	CBCDM	30	2	Leverkusen
+Renato Augusto	Brazil	8181	Renato Augusto	CMCAMCDMLM	31	2	Beijing Guoan
+Santi Cazorla	Spain	8181	Santi Cazorla	CMLMCAMCDM	34	2	Villarreal CF
+Everton Andrão	Brazil	8080	Everton Andrão	CDMCM	35	0	Fluminense
+Maximilian Eggestein	Germany	8085	Maximilian Eggestein	CMCAMCDM	22	1	Werder Bremen
+Julian Weigl	Germany	8084	Julian Weigl	CDMCB	23	3	Dortmund
+Matias Vecino	Uruguay	8081	Matias Vecino	CDMCM	27	0	Inter
+Jean Michaël Seri	Ivory Coast	8081	Jean Michaël Seri	CMCDM	27	2	Fulham
+Iván Marcone	Argentina	8081	Iván Marcone	CDMCM	28	0	Buenos Aires
+Thiago Mendes	Brazil	8083	Thiago Mendes	CDMCM	27	1	LOSC Lille
+André Gomes	Portugal	8084	André GomesL	CMCDM	25	2	Everton
+Morgan Sanson	France	8085	Morgan Sanson	CMCDM	24	2	OM
+Emre Can	Germany	8085	Emre Can	CMCDM	25	6	Juventus
+Leandro Paredes	Argentina	8085	Leandro Paredes	CMCDM	24	6	Paris
+Manu Trigueros	Spain	8081	Manu Trigueros	CMCDM	27	1	Villarreal CF
+Taras Stepanenko	Ukraine	8080	Taras Stepanenko	CDM	29	0	Shakhtar Donetsk
+Luka Milivojevic	Serbia	8081	Luka Milivojevic	CDMCM	28	3	Crystal Palace
+Josuha Guilavogui	France	8081	Josuha Guilavogui	CDMCM	28	2	VfL Wolfsburg
+Camacho	Spain	8080	Camacho	CDMCMCB	29	1	VfL Wolfsburg
+Steven Nzonzi	France	8080	Steven Nzonzi	CDMCM	30	1	Roma
+Yann M'Vila	France	8081	Yann M'Vila	CDMCM	28	1	ASSE
+Ramires	Brazil	8080	Ramires	CDM	32	1	Jiangsu Suning
+Fernando	Brazil	8080	Fernando	CDMCM	31	3	Galatasaray
+Moussa Sissoko	France	8080	Moussa Sissoko	CMCDM	29	4	Spurs
+Ljubomir Fejsa	Serbia	8080	Ljubomir Fejsa	CDM	30	1	SL Benfica
+Borja Valero	Spain	8080	Borja Valero	CAMCDM	34	0	Inter
+Igor Denisov	Russia	8080	Igor Denisov	CDM	35	1	Lokomotiv Moscow
+Javier Mascherano	Argentina	8080	Javier Mascherano	CDMCB	34	6	Hebei CFFC
+Ruslan Malinovskyi	Ukraine	7982	Ruslan Malinovskyi	CMCAMCDM	26	1	KRC Genk
+Melvin Parrela	Brazil	7979	Melvin Parrela	CDMCM	31	1	América
+Lorenzo Pellegrini	Italy	7987	Lorenzo Pellegrini	CMCAMCDM	22	7	Roma
+Lucas Tousart	France	7984	Lucas Tousart	CDM	22	1	OL
+Marcos Llorente	Spain	7987	Marcos Llorente	CDM	24	4	Real Madrid
+Harry Winks	England	7986	Harry Winks	CMCDM	23	6	Spurs
+Mahmoud Dahoud	Germany	7985	Mahmoud Dahoud	CMCDM	23	4	Dortmund
+Jean-Philippe Gbamin	Ivory Coast	7984	Jean-Philippe Gbamin	CDMCMCB	23	0	1. FSV Mainz 05
+Jefferson Lerma	Colombia	7983	Jefferson Lerma	CDMCM	24	2	Bournemouth
+Roman Zobnin	Russia	7986	Roman Zobnin	CDMCMLM	25	2	Spartak Moscow
+Niklas Stark	Germany	7984	Niklas Stark	CBCDM	24	1	Hertha BSC
+Leander Dendoncker	Belgium	7985	Leander DendonckerL	CDMCBCM	24	6	Wolves
+Jonas Hector	Germany	7979	Jonas Hector	LBCDM	29	1	Köln
+Gabriel	Brazil	7983	Gabriel	CMCDM	25	0	SL Benfica
+Guido Pizarro	Argentina	7979	Guido Pizarro	CDMCM	29	4	Tigres
+Maximilian Arnold	Germany	7983	Maximilian Arnold	CMCDMCAM	25	2	VfL Wolfsburg
+Roque Mesa	Spain	7979	Roque Mesa	CMCDM	29	1	Sevilla FC
+Sergi Darder	Spain	7984	Sergi Darder	CMCDM	25	1	RCD Espanyol
+Eric Dier	England	7983	Eric Dier	CDMCB	25	4	Spurs
+Diego Demme	Germany	7980	Diego Demme	CDMCM	27	1	RB Leipzig
+Jordan Veretout	France	7982	Jordan Veretout	CMCDM	26	1	Fiorentina
+David López	Spain	7980	David López	CBCDM	29	0	RCD Espanyol
+Milan Badelj	Croatia	7979	Milan Badelj	CDMCM	30	0	Lazio
+Campaña	Spain	7982	Campaña	CMCDM	25	1	Levante UD
+Benjamin Stambouli	France	7979	Benjamin Stambouli	CBCDM	28	0	Schalke
+Gary Medel	Chile	7979	Gary Medel	CDMCB	31	1	Besiktas
+Jack Wilshere	England	7980	Jack Wilshere	CMCAMCDM	27	2	West Ham
+Souza	Brazil	7979	Souza	CDMCM	30	1	Al Ahli
+Francis Coquelin	France	7980	Francis Coquelin	CDMCM	28	2	Valencia CF
+Sebastian Rudy	Germany	7979	Sebastian Rudy	CDMCMRB	29	0	Schalke
+Victor Wanyama	Kenya	7980	Victor Wanyama	CDMCM	27	2	Spurs
+Christian Noboa	Ecuador	7979	Christian Noboa	CMCDM	34	1	Free Agents
+Makoto Hasebe	Japan	7979	Makoto Hasebe	CBCDM	35	2	Frankfurt
+Etienne Capoue	France	7979	Etienne Capoue	CDMCM	30	1	Watford
+Marcelo Díaz	Chile	7979	Marcelo Díaz	CDMCM	32	0	Racing Club
+Augusto Fernández	Argentina	7979	Augusto Fernández	CMCDM	33	0	Beijing Renhe
+Pontus Wernbloom	Sweden	7979	Pontus Wernbloom	CDM	32	2	PAOK
+Emre Belözoglu	Turkey	7979	Emre Belözoglu	CMCDM	38	1	Basaksehir
+Tomáš Soucek	Czech Republic	7885	Tomáš Soucek	CDM	24	1	Slavia Praha
+Diadie Samassékou	Mali	7886	Diadie Samassékou	CDMCM	23	2	RB Salzburg
+Sidney Pessinho	Brazil	7878	Sidney Pessinho	CDMCM	27	0	Internacional
+Florian Grillitsch	Austria	7882	Florian Grillitsch	CMCDM	23	0	TSG Hoffenheim
+Sander Berge	Norway	7887	Sander Berge	CDMCM	21	4	KRC Genk
+Joan Jordán	Spain	7883	Joan Jordán	CMCDMCAM	24	1	SD Eibar
+Petros	Brazil	7878	Petros	CDMCM	29	0	Al Nassr
+Rodrigo Battaglia	Argentina	7879	Rodrigo Battaglia	CMCDM	27	0	Sporting CP
+Stanislav Lobotka	Slovakia	7884	Stanislav Lobotka	CMCDM	24	1	RC Celta
+Youri Tielemans	Belgium	7887	Youri TielemansL	CMCDM	22	5	Leicester City
+Nery Domínguez	Argentina	7878	Nery Domínguez	CDMCB	29	0	Racing Club
+Wilmar Barrios	Colombia	7883	Wilmar Barrios	CDMCM	25	2	Free Agents
+Nabil Bentaleb	Algeria	7883	Nabil Bentaleb	CMCDM	24	3	Schalke
+Wylan Cyprien	France	7883	Wylan Cyprien	CMCDM	24	2	OGC Nice
+Mario Lemina	Gabon	7883	Mario Lemina	CMCDM	25	0	Southampton
+Roberto Gagliardini	Italy	7881	Roberto Gagliardini	CDMCM	25	1	Inter
+Pere Pons	Spain	7881	Pere Pons	CMCDM	26	0	Girona FC
+Omar Mascarell	Spain	7880	Omar Mascarell	CDMCM	26	0	Schalke
+Bryan Cristante	Italy	7884	Bryan Cristante	CMCDMCAM	24	1	Roma
+Andreas Samaris	Greece	7878	Andreas Samaris	CDMCM	29	1	SL Benfica
+Téji Savanier	France	7879	Téji Savanier	CMCDM	27	1	Nîmes Olympique
+Fayçal Fajr	Morocco	7878	Fayçal Fajr	CMCDMRM	30	1	SM Caen
+Fernando	Brazil	7880	Fernando	CDMCM	27	2	Spartak Moscow
+Sérgio Oliveira	Portugal	7881	Sérgio Oliveira	CMCDM	26	0	PAOK
+Grzegorz Krychowiak	Poland	7878	Grzegorz Krychowiak	CDMCM	29	1	Lokomotiv Moscow
+Oguzhan Özyakup	Turkey	7879	Oguzhan Özyakup	CMCDMCAM	26	1	Besiktas
+Enzo Pérez	Argentina	7878	Enzo Pérez	CDMCM	33	1	River Plate
+Davy Pröpper	Netherlands	7879	Davy Pröpper	CMCDM	27	3	Brighton
+Julian Baumgartlinger	Austria	7878	Julian Baumgartlinger	CDM	31	1	Leverkusen
+Iborra	Spain	7878	Iborra	CMCDM	31	0	Villarreal CF
+Jonjo Shelvey	England	7879	Jonjo Shelvey	CMCDM	27	2	Newcastle Utd
+Alan Dzagoev	Russia	7878	Alan Dzagoev	CMCDMCF	28	5	CSKA Moscow
+Mikel San José	Spain	7878	Mikel San José	CMCDM	29	0	Athletic Club
+Adrien Silva	Portugal	7878	Adrien SilvaL	CMCDM	30	1	AS Monaco
+Bruno	Spain	7878	Bruno	CMCDM	34	0	Villarreal CF
+Morgan Schneiderlin	France	7878	Morgan Schneiderlin	CDMCM	29	0	Everton
+Marouane Fellaini	Belgium	7878	Marouane Fellaini	CMCDM	31	4	Shandong Luneng
+Manu García	Spain	7878	Manu García	CDMCM	33	0	D. Alavés
+Lasse Schøne	Denmark	7878	Lasse Schøne	CMCDM	33	4	Ajax
+Nuri Sahin	Turkey	7878	Nuri Sahin	CDMCM	30	1	Werder Bremen
+Javi García	Spain	7878	Javi García	CDMCMCB	32	1	Real Betis
+Riccardo Montolivo	Italy	7878	Riccardo Montolivo	CDMCM	34	0	Milan
+Daniel Baier	Germany	7878	Daniel Baier	CDMCM	35	0	FC Augsburg
+Marc Roca	Spain	7787	Marc Roca	CDMCM	22	3	RCD Espanyol
+Razvan Marin	Romania	7783	Razvan Marin	CMCDM	23	1	Standard Liège
+Mauro Arambarri	Uruguay	7782	Mauro Arambarri	CDMCM	23	0	Getafe CF
+Santiago Ascacíbar	Argentina	7784	Santiago Ascacíbar	CDMCM	22	3	VfB Stuttgart
+Nahitan Nández	Uruguay	7784	Nahitan Nández	CMCDMRM	23	2	Buenos Aires
+Emre Akbaba	Turkey	7780	Emre Akbaba	CAMCMCDM	26	1	Galatasaray
+Denis Zakaria	Switzerland	7785	Denis Zakaria	CMCDM	22	5	M'gladbach
+Guido Rodríguez	Argentina	7780	Guido Rodríguez	CDMCM	24	4	América
+Ellyes Skhiri	Tunisia	7781	Ellyes Skhiri	CDMCM	24	0	Montpellier HSC
+Maxime Lopez	France	7783	Maxime Lopez	CMCDM	21	2	OM
+Daler Kuzyaev	Russia	7780	Daler Kuzyaev	CMCDMRM	26	1	Free Agents
+Gonzalo Escalante	Argentina	7782	Gonzalo Escalante	CDMCM	26	1	SD Eibar
+Pierre-Emile Højbjerg	Denmark	7782	Pierre-Emile Højbjerg	CMCDM	23	4	Southampton
+Erick Pulgar	Chile	7782	Erick Pulgar	CDMCM	25	2	Bologna
+Mohamed Elneny	Egypt	7779	Mohamed Elneny	CDMCM	26	3	Arsenal
+Jorrit Hendrix	Netherlands	7781	Jorrit Hendrix	CDMCM	24	0	PSV
+Dominik Kohr	Germany	7780	Dominik Kohr	CDMCM	25	2	Leverkusen
+Marten de Roon	Netherlands	7777	Marten de Roon	CMCDM	28	0	Atalanta
+Andreas Pereira	Brazil	7782	Andreas Pereira	CMCDM	23	2	Manchester Utd
+Romain Saïss	Morocco	7777	Romain Saïss	CDM	29	1	Wolves
+Tobias Strobl	Germany	7777	Tobias Strobl	CDMCB	29	0	M'gladbach
+Soualiho Meïté	France	7780	Soualiho Meïté	CMCDM	25	2	Torino
+Okay Yokuslu	Turkey	7783	Okay Yokuslu	CDMCB	25	1	RC Celta
+Ole Kristian Selnæs	Norway	7781	Ole Kristian Selnæs	CDMCM	24	0	Free Agents
+Sékou Sanogo	Ivory Coast	7777	Sékou Sanogo	CDMCM	30	1	Al Ittihad
+Thomas Monconduit	France	7778	Thomas Monconduit	CDMCM	28	1	Amiens SC
+Vladimír Darida	Czech Republic	7777	Vladimír Darida	CMCAMCDM	28	1	Hertha BSC
+Sebastian Rode	Germany	7778	Sebastian RodeL	CDMCM	28	2	Frankfurt
+Pedro Obiang	Equatorial Guinea	7779	Pedro Obiang	CDMCM	27	3	West Ham
+Pablo Hernández	Chile	7777	Pablo Hernández	CMCAMCDM	32	0	Independiente
+André André	Portugal	7777	André André	CMCDM	29	0	V. Guimarães
+Oriol Romeu	Spain	7779	Oriol Romeu	CDMCM	27	1	Southampton
+Bibras Natcho	Israel	7777	Bibras Natcho	CMCDM	31	0	Olympiacos CFP
+Tomás Pina	Spain	7777	Tomás Pina	CMCDM	31	0	D. Alavés
+Celso Ortíz	Paraguay	7777	Celso Ortíz	CDMCM	30	0	Monterrey
+Aaron Mooy	Australia	7777	Aaron Mooy	CMCDM	28	1	Huddersfield
+Nemanja Gudelj	Serbia	7778	Nemanja GudeljL	CDMCM	27	0	Sporting CP
+Andrea Bertolacci	Italy	7777	Andrea Bertolacci	CMCDM	28	1	Milan
+Tomás Rincón	Venezuela	7777	Tomás Rincón	CMCDM	31	1	Torino
+Juraj Kucka	Slovakia	7777	Juraj Kucka	CMCDM	32	0	Parma
+Benjamin André	France	7777	Benjamin André	CMCDM	28	1	Stade Rennais
+Victor Sánchez	Spain	7777	Victor Sánchez	CDMCMRB	31	0	RCD Espanyol
+Danny Latza	Germany	7777	Danny Latza	CMCDM	29	0	1. FSV Mainz 05
+Rafael Carioca	Brazil	7777	Rafael Carioca	CMCDM	29	1	Tigres
+Clément Grenier	France	7777	Clément Grenier	CMCDMCAM	28	0	Stade Rennais
+Ivan Radovanovic	Serbia	7777	Ivan Radovanovic	CDMCM	30	1	Genoa
+Andrea Poli	Italy	7777	Andrea Poli	CMCDM	29	1	Bologna
+Maurício	Brazil	7777	Maurício	CDM	30	1	PAOK
+Carlos Sánchez	Colombia	7777	Carlos Sánchez	CDMCB	33	2	West Ham
+Albin Ekdal	Sweden	7777	Albin Ekdal	CMCDM	29	0	Sampdoria
+Papakouli Diop	Senegal	7777	Papakouli Diop	CDMCM	33	1	SD Eibar
+Fabian Lustenberger	Switzerland	7777	Fabian Lustenberger	CBCDM	31	0	Hertha BSC
+Vadis Odjidja-Ofoe	Belgium	7777	Vadis Odjidja-Ofoe	CMCDMCAM	30	0	KAA Gent
+Karim El Ahmadi	Morocco	7777	Karim El Ahmadi	CDMCM	34	0	Al Ittihad
+Gelson Fernandes	Switzerland	7777	Gelson Fernandes	CDMCM	32	0	Frankfurt
+José Sosa	Argentina	7777	José Sosa	CMCDM	33	1	Trabzonspor
+Leonardo Ponzio	Argentina	7777	Leonardo Ponzio	CDM	37	1	River Plate
+Blerim Džemaili	Switzerland	7777	Blerim Džemaili	CMCAMCDM	33	0	Bologna
+Bastian Schweinsteiger	Germany	7777	Bastian Schweinsteiger	CBCDMCM	34	2	Chicago Fire
+Christian Luyindama	DR Congo	7679	Christian LuyindamaL	CBCDM	25	3	Galatasaray
+Michael Ngadeu-Ngadjui	Cameroon	7678	Michael Ngadeu-Ngadjui	CBCDM	28	0	Slavia Praha
+Pablo Rosario	Netherlands	7683	Pablo Rosario	CDMCM	22	0	PSV
+Declan Rice	England	7687	Declan Rice	CDMCBCM	20	9	West Ham
+Xaver Schlager	Austria	7684	Xaver Schlager	CMCAMCDM	21	0	RB Salzburg
+Gaku Shibasaki	Japan	7679	Gaku Shibasaki	CAMSTCDM	26	1	Getafe CF
+Marko Grujic	Serbia	7686	Marko GrujicL	CDMCM	23	2	Hertha BSC
+Ludovic Blas	France	7686	Ludovic Blas	CMCDMRM	21	2	EA Guingamp
+Ádám Nagy	Hungary	7683	Ádám Nagy	CDM	23	1	Bologna
+Amadou Diawara	Guinea	7684	Amadou Diawara	CMCDM	21	2	Napoli
+Rafael Cachoira	Brazil	7676	Rafael Cachoira	CBCDM	31	0	Paraná
+David Seijalbo	Brazil	7676	David Seijalbo	CDM	35	0	Cruzeiro
+Davi Parrela	Brazil	7676	Davi Parrela	CBCDM	31	0	Sport
+Emilio Piodão	Brazil	7676	Emilio Piodão	CDMCM	27	0	Bahia
+Youssef Aït Bennasser	Morocco	7684	Youssef Aït BennasserL	CMCDM	22	2	ASSE
+Waldemar Anton	Germany	7683	Waldemar Anton	CBCDM	22	1	Hannover 96
+Rolando Mandragora	Italy	7686	Rolando Mandragora	CMCDM	21	0	Udinese
+Vincent Koziello	France	7682	Vincent Koziello	CMCDM	23	0	Köln
+André Simões	Portugal	7676	André Simões	CDMCM	29	0	AEK Athens
+Marvelous Nakamba	Zimbabwe	7680	Marvelous Nakamba	CDMCM	25	0	Club Brugge
+Otávio	Brazil	7679	Otávio	CDM	25	0	Girondins de Bx
+Manuel Locatelli	Italy	7684	Manuel LocatelliL	CDMCM	21	1	Sassuolo
+Badou Ndiaye	Senegal	7676	Badou NdiayeL	CMCDMCAM	28	2	Galatasaray
+Serhiy Sydorchuk	Ukraine	7677	Serhiy Sydorchuk	CDMCM	28	0	Dynamo Kyiv
+Baptiste Santamaria	France	7681	Baptiste Santamaria	CDMCM	24	1	Angers SCO
+Matheus Uribe	Colombia	7676	Matheus Uribe	CMCDMRM	28	2	América
+Éder Balanta	Colombia	7680	Éder Balanta	CBCDM	26	4	FC Basel
+Óscar Duarte	Costa Rica	7676	Óscar Duarte	CBCDM	29	1	RCD Espanyol
+Luca Zuffi	Switzerland	7676	Luca Zuffi	CDMCMCAM	29	1	FC Basel
+Guilherme	Brazil	7677	Guilherme	CDMCM	28	1	Olympiacos CFP
+Kaan Ayhan	Turkey	7679	Kaan Ayhan	CBCDM	24	0	Düsseldorf
+Vicente Gómez	Spain	7676	Vicente Gómez	CMCDMCAM	30	0	RC Deportivo
+Jordy Clasie	Netherlands	7677	Jordy ClasieL	CMCDM	27	0	Feyenoord
+Nampalys Mendy	France	7678	Nampalys Mendy	CDMCM	26	1	Leicester City
+Marco Höger	Germany	7676	Marco Höger	CDMCM	29	0	Köln
+Fransérgio	Brazil	7676	Fransérgio	CMCDM	28	1	SC Braga
+Philipp Bargfrede	Germany	7676	Philipp Bargfrede	CDM	30	1	Werder Bremen
+Holger Badstuber	Germany	7676	Holger Badstuber	CBCDM	30	2	VfB Stuttgart
+Osvaldo Alonso	Cuba	7676	Osvaldo Alonso	CDMCM	33	0	Minnesota United
+Celso Borges	Costa Rica	7676	Celso Borges	CDMCM	31	0	Göztepe
+Rubén Pérez	Spain	7676	Rubén Pérez	CDMCM	30	0	CD Leganés
+Tom Cleverley	England	7676	Tom Cleverley	CMCAMCDM	29	3	Watford
+Iturraspe	Spain	7676	Iturraspe	CMCDM	30	0	Athletic Club
+James McCarthy	Republic of Ireland	7676	James McCarthy	CDMCM	28	0	Everton
+Claudemir	Brazil	7676	Claudemir	CMCDM	31	0	SC Braga
+Cheikhou Kouyaté	Senegal	7676	Cheikhou Kouyaté	CDMCM	29	0	Crystal Palace
+Håvard Nordtveit	Norway	7677	Håvard NordtveitL	CBCDMRB	28	1	Fulham
+Dale Stephens	England	7676	Dale Stephens	CMCDM	29	3	Brighton
+William Vainqueur	France	7676	William VainqueurL	CDM	30	0	AS Monaco
+Ki Sung Yueng	Korea Republic	7676	Ki Sung Yueng	CMCDM	30	1	Newcastle Utd
+Ryan Donk	Netherlands	7676	Ryan Donk	CDMCMCB	33	2	Galatasaray
+Jonathan De Guzmán	Netherlands	7676	Jonathan De Guzmán	CMCDMCAM	31	2	Frankfurt
+Sven Kums	Belgium	7676	Sven Kums	CMCDM	31	1	RSC Anderlecht
+Cristian Riveros	Paraguay	7676	Cristian Riveros	CMCDM	36	1	Free Agents
+David Zurutuza	France	7676	David Zurutuza	CMCDM	32	0	Real Sociedad
+Mario Suárez	Spain	7676	Mario Suárez	CMCDMCB	32	0	Rayo Vallecano
+Nicolás Domingo	Argentina	7676	Nicolás Domingo	CDMCMCB	34	0	Independiente
+Gonzalo Castro	Germany	7676	Gonzalo Castro	CMCDM	31	1	VfB Stuttgart
+Valon Behrami	Switzerland	7676	Valon Behrami	CDMCM	34	1	Udinese
+Christian Gentner	Germany	7676	Christian Gentner	CMCDMCAM	33	0	VfB Stuttgart
+Markel Bergara	Spain	7676	Markel Bergara	CDMCM	33	1	Getafe CF
+Michael Bradley	United States	7676	Michael Bradley	CDMCM	31	3	Toronto FC
+Per Ciljan Skjelbred	Norway	7676	Per Ciljan Skjelbred	CDMCM	31	0	Hertha BSC
+Mark Noble	England	7676	Mark Noble	CMCDM	32	0	West Ham
+Javi Fuego	Spain	7676	Javi Fuego	CDMCM	35	1	Villarreal CF
+Fernando Belluschi	Argentina	7676	Fernando Belluschi	CAMCMCFCDM	35	0	San Lorenzo
+Scott Brown	Scotland	7676	Scott Brown	CDM	33	2	Celtic
+Atiba Hutchinson	Canada	7676	Atiba Hutchinson	CDMCM	36	1	Besiktas
+Mehmet Topal	Turkey	7676	Mehmet Topal	CDMCB	33	3	Fenerbahçe
+Vitaliy Buyalskyi	Ukraine	7578	Vitaliy Buyalskyi	CMCAMCDM	26	0	Dynamo Kyiv
+Alfa Semedo	Guinea Bissau	7584	Alfa SemedoL	CDMCMCB	21	1	RCD Espanyol
+Arne Maier	Germany	7587	Arne Maier	CMCDM	20	0	Hertha BSC
+Scott McTominay	Scotland	7583	Scott McTominay	CDMCM	22	0	Manchester Utd
+Xeka	Portugal	7581	Xeka	CDMCM	24	1	LOSC Lille
+Fran Beltrán	Spain	7583	Fran Beltrán	CDMCM	20	1	RC Celta
+Edson Álvarez	Mexico	7583	Edson Álvarez	CDMCBRB	21	7	América
+Ibrahim Sangaré	Ivory Coast	7585	Ibrahim Sangaré	CDMCM	21	1	Toulouse FC
+Florentino	Portugal	7587	Florentino	CDMCM	19	2	SL Benfica
+Gabrisco Aníbal	Brazil	7575	Gabrisco Aníbal	CDMCM	27	0	Paraná
+Kaimo Lima	Brazil	7575	Kaimo Lima	CBCDMLB	35	0	Fluminense
+Jorginhson	Brazil	7575	Jorginhson	CDMCMCAM	27	0	Vitória
+Suat Serdar	Germany	7582	Suat Serdar	CMCDMCAM	22	1	Schalke
+Tom Davies	England	7583	Tom Davies	CMCAMCDM	20	1	Everton
+Stefano Sensi	Italy	7580	Stefano Sensi	CDMCM	23	1	Sassuolo
+Rubén Alcaraz	Spain	7575	Rubén Alcaraz	CMCDM	28	1	R. Valladolid CF
+Palhinha	Portugal	7581	PalhinhaL	CDMCM	23	1	SC Braga
+Víctor Guzmán	Mexico	7580	Víctor Guzmán	CMCAMCDM	24	2	Pachuca
+Melero	Spain	7581	Melero	CDMCM	25	0	SD Huesca
+Thiago Maia	Brazil	7582	Thiago Maia	CDMCM	22	0	LOSC Lille
+Irfan Can Kahveci	Turkey	7580	Irfan Can Kahveci	CMCDMCAM	23	0	Basaksehir
+Merino	Spain	7584	Merino	CMCDMLM	22	1	Real Sociedad
+Nemanja Radoja	Serbia	7578	Nemanja Radoja	CMCDM	26	2	RC Celta
+Danilo	Brazil	7580	Danilo	CMCDM	23	0	OGC Nice
+Miloš Veljkovic	Serbia	7581	Miloš Veljkovic	CBCDM	23	1	Werder Bremen
+Nikola Vukcevic	Montenegro	7578	Nikola Vukcevic	CDMCM	27	1	Levante UD
+Jean-Eudes Aholou	Ivory Coast	7581	Jean-Eudes Aholou	CDMCM	25	1	AS Monaco
+Sebastián Cristóforo	Uruguay	7579	Sebastián CristóforoL	CDMCM	25	1	Getafe CF
+Lukas Lerager	Denmark	7578	Lukas LeragerL	CMCDM	25	0	Genoa
+Arijan Ademi	FYR Macedonia	7575	Arijan Ademi	CDMCM	27	0	Dinamo Zagreb
+Yuriy Gazinskiy	Russia	7575	Yuriy Gazinskiy	CDMCM	29	3	Free Agents
+Seko Fofana	Ivory Coast	7582	Seko Fofana	CMCDM	24	0	Udinese
+Leonel Miranda	Argentina	7580	Leonel Miranda	CMCDMCAM	25	3	Defensa
+Daniel Torres	Colombia	7575	Daniel TorresL	CDMCM	29	1	Albacete BP
+Diego Rodríguez	Uruguay	7575	Diego Rodríguez	CDMCM	29	0	Tijuana
+Ben Pearson	England	7581	Ben Pearson	CDM	24	1	Preston
+Fouad Bachirou	Comoros	7575	Fouad Bachirou	CDMCM	29	0	Malmö FF
+Medrán	Spain	7579	MedránL	CMCDMCAM	25	0	Rayo Vallecano
+Rani Khedira	Germany	7578	Rani Khedira	CBCDM	25	1	FC Augsburg
+Ibrahim Amadou	France	7580	Ibrahim Amadou	CDMCB	26	0	Sevilla FC
+Danilo Cataldi	Italy	7579	Danilo Cataldi	CMCDM	24	1	Lazio
+Callum McGregor	Scotland	7578	Callum McGregor	CDMCAMLMLB	25	0	Celtic
+Abdoulaye Touré	France	7578	Abdoulaye Touré	CDMCM	25	0	FC Nantes
+Jozabed	Spain	7575	Jozabed	CMCDMCAM	28	0	RC Celta
+André Ramalho	Brazil	7577	André Ramalho	CBCDM	27	0	RB Salzburg
+José Juan Vázquez	Mexico	7575	José Juan Vázquez	CDMCM	31	0	Santos Laguna
+Sanjin Prcic	Bosnia Herzegovina	7579	Sanjin PrcicL	CMCDM	25	0	RC Strasbourg
+Calum Chambers	England	7580	Calum ChambersL	CDMCBCM	24	4	Fulham
+Nathaniel Chalobah	England	7580	Nathaniel Chalobah	CDMCM	24	3	Watford
+Alexander Ring	Finland	7576	Alexander Ring	CDMCMCB	28	0	New York City FC
+Rubén Pardo	Spain	7578	Rubén Pardo	CMCAMCDM	26	1	Real Sociedad
+Diego Chará	Colombia	7575	Diego Chará	CDMCM	33	0	Portland Timbers
+Ogenyi Onazi	Nigeria	7578	Ogenyi Onazi	CDMCM	26	0	Trabzonspor
+Thulani Serero	South Africa	7575	Thulani Serero	CMCDM	29	1	Vitesse
+Stuart Armstrong	Scotland	7576	Stuart Armstrong	CAMCDMCM	27	2	Southampton
+Alhassan Wakaso	Ghana	7577	Alhassan Wakaso	CDM	27	0	V. Guimarães
+Sergio Álvarez	Spain	7578	Sergio Álvarez	CDMCM	27	0	SD Eibar
+Jordi Amat	Spain	7577	Jordi Amat	CBCDM	27	1	Rayo Vallecano
+Giannelli Imbula	France	7578	Giannelli ImbulaL	CMCDM	26	1	Rayo Vallecano
+Stefan Ilsanker	Austria	7575	Stefan Ilsanker	CDMCBRB	30	1	RB Leipzig
+Hanno Behrens	Germany	7575	Hanno Behrens	CMCDM	29	0	1. FC Nürnberg
+Maxime Gonalons	France	7575	Maxime GonalonsL	CDMCM	30	3	Sevilla FC
+Mato Jajalo	Bosnia Herzegovina	7575	Mato Jajalo	CMCDM	31	1	Palermo
+Emmanuel Badu	Ghana	7575	Emmanuel Badu	CMCDM	28	0	Udinese
+Paul Lasne	France	7575	Paul Lasne	CMCDMLWB	30	0	Montpellier HSC
+José Cañas	Spain	7575	José Cañas	CDMCM	32	0	PAOK
+Mats Rits	Belgium	7578	Mats Rits	CMCDMCAM	25	2	Club Brugge
+Tolgay Arslan	Germany	7576	Tolgay Arslan	CDMCM	28	2	Fenerbahçe
+Osvaldo Martínez	Paraguay	7575	Osvaldo Martínez	CMCDM	33	0	Atlas
+Dmitriy Tarasov	Russia	7575	Dmitriy Tarasov	CDM	32	1	Lokomotiv Moscow
+Jorge Hernández	Mexico	7575	Jorge Hernández	CDMCM	29	0	Pachuca
+Fábio Pacheco	Portugal	7575	Fábio Pacheco	CDMCM	31	1	Moreirense FC
+Sergio Tejera	Spain	7575	Sergio Tejera	CMCDM	28	0	R. Oviedo
+Jonathan Hogg	England	7575	Jonathan Hogg	CDMCM	30	1	Huddersfield
+Fabian Frei	Switzerland	7575	Fabian Frei	CDMCBCM	30	0	FC Basel
+Víctor Cáceres	Paraguay	7575	Víctor Cáceres	CDMCM	34	1	Free Agents
+Mosquera	Spain	7575	Mosquera	CDMCM	31	0	RC Deportivo
+Lucas Deaux	France	7575	Lucas Deaux	CDMCM	30	1	EA Guingamp
+Manuel da Costa	Morocco	7575	Manuel da Costa	CBCDM	33	2	Al Ittihad
+Haris Medunjanin	Bosnia Herzegovina	7575	Haris Medunjanin	CMCDM	34	0	Philadelphia
+Nuno Coelho	Portugal	7575	Nuno Coelho	CDMCB	31	0	Os Belenenses
+Simone Missiroli	Italy	7575	Simone Missiroli	CMCDM	33	0	SPAL
+Luca Cigarini	Italy	7575	Luca Cigarini	CMCDM	32	0	Cagliari
+Matías Fritzler	Argentina	7575	Matías Fritzler	CDMCM	32	0	Colón
+Fredy Guarín	Colombia	7575	Fredy Guarín	CDMCM	32	3	Shanghai Shenhua
+John Obi Mikel	Nigeria	7575	John Obi Mikel	CDMCM	32	0	Middlesbrough
+Alaixys Romao	Togo	7575	Alaixys Romao	CDM	35	0	Stade de Reims
+Mathieu Flamini	France	7575	Mathieu Flamini	CDM	35	1	Getafe CF
+Francesco Magnanelli	Italy	7575	Francesco Magnanelli	CDM	34	1	Sassuolo
+Luca Rigoni	Italy	7575	Luca Rigoni	CMCDM	34	0	Parma
+Hanno Behrens	Germany	7575	Hanno Behrens	CMCDM	29	0	1. FC Nürnberg
+Maxime Gonalons	France	7575	Maxime GonalonsL	CDMCM	30	3	Sevilla FC
+Mato Jajalo	Bosnia Herzegovina	7575	Mato Jajalo	CMCDM	31	1	Palermo
+Emmanuel Badu	Ghana	7575	Emmanuel Badu	CMCDM	28	0	Udinese
+Paul Lasne	France	7575	Paul Lasne	CMCDMLWB	30	0	Montpellier HSC
+José Cañas	Spain	7575	José Cañas	CDMCM	32	0	PAOK
+Mats Rits	Belgium	7578	Mats Rits	CMCDMCAM	25	2	Club Brugge
+Tolgay Arslan	Germany	7576	Tolgay Arslan	CDMCM	28	2	Fenerbahçe
+Osvaldo Martínez	Paraguay	7575	Osvaldo Martínez	CMCDM	33	0	Atlas
+Dmitriy Tarasov	Russia	7575	Dmitriy Tarasov	CDM	32	1	Lokomotiv Moscow
+Jorge Hernández	Mexico	7575	Jorge Hernández	CDMCM	29	0	Pachuca
+Fábio Pacheco	Portugal	7575	Fábio Pacheco	CDMCM	31	1	Moreirense FC
+Sergio Tejera	Spain	7575	Sergio Tejera	CMCDM	28	0	R. Oviedo
+Jonathan Hogg	England	7575	Jonathan Hogg	CDMCM	30	1	Huddersfield
+Fabian Frei	Switzerland	7575	Fabian Frei	CDMCBCM	30	0	FC Basel
+Víctor Cáceres	Paraguay	7575	Víctor Cáceres	CDMCM	34	1	Free Agents
+Mosquera	Spain	7575	Mosquera	CDMCM	31	0	RC Deportivo
+Lucas Deaux	France	7575	Lucas Deaux	CDMCM	30	1	EA Guingamp
+Manuel da Costa	Morocco	7575	Manuel da Costa	CBCDM	33	2	Al Ittihad
+Haris Medunjanin	Bosnia Herzegovina	7575	Haris Medunjanin	CMCDM	34	0	Philadelphia
+Nuno Coelho	Portugal	7575	Nuno Coelho	CDMCB	31	0	Os Belenenses
+Simone Missiroli	Italy	7575	Simone Missiroli	CMCDM	33	0	SPAL
+Luca Cigarini	Italy	7575	Luca Cigarini	CMCDM	32	0	Cagliari
+Matías Fritzler	Argentina	7575	Matías Fritzler	CDMCM	32	0	Colón
+Fredy Guarín	Colombia	7575	Fredy Guarín	CDMCM	32	3	Shanghai Shenhua
+John Obi Mikel	Nigeria	7575	John Obi Mikel	CDMCM	32	0	Middlesbrough
+Alaixys Romao	Togo	7575	Alaixys Romao	CDM	35	0	Stade de Reims
+Mathieu Flamini	France	7575	Mathieu Flamini	CDM	35	1	Getafe CF
+Francesco Magnanelli	Italy	7575	Francesco Magnanelli	CDM	34	1	Sassuolo
+Luca Rigoni	Italy	7575	Luca Rigoni	CMCDM	34	0	Parma
+Selçuk Inan	Turkey	7575	Selçuk Inan	CMCDM	34	1	Galatasaray
+Patrik Hrošovský	Slovakia	7475	Patrik Hrošovský	CMCDM	27	0	Viktoria Plzen
+Elvis Saric	Bosnia Herzegovina	7474	Elvis Saric	CMCDM	28	1	Suwon Samsung
+Volodymyr Shepelev	Ukraine	7483	Volodymyr Shepelev	CDMCMCAM	21	0	Dynamo Kyiv
+Pierre Kunde Malong	Cameroon	7480	Pierre Kunde Malong	CDMCM	23	0	1. FSV Mainz 05
+Pedro Sá	Portugal	7478	Pedro Sá	CDMCM	25	0	Portimonense SC
+Douglas Luiz	Brazil	7484	Douglas LuizL	CMCDM	21	2	Girona FC
+Mattéo Guendouzi	France	7486	Mattéo Guendouzi	CMCDM	20	3	Arsenal
+Idrissa Doumbia	Ivory Coast	7484	Idrissa Doumbia	CDMCM	21	1	Sporting CP
+Tyler Adams	United States	7486	Tyler Adams	CDMRWB	20	5	RB Leipzig
+Gojko Cimirot	Bosnia Herzegovina	7476	Gojko Cimirot	CMCDM	26	0	Standard Liège
+Elias Fontoira	Brazil	7474	Elias Fontoira	CDM	35	0	Internacional
+Pascoal Muscato	Brazil	7474	Pascoal Muscato	CDMCM	27	0	Santos
+Edercinho Sepa	Brazil	7474	Edercinho Sepa	CDMCM	31	0	Grêmio
+Edvaldisco	Brazil	7474	Edvaldisco	CDMCMCAM	27	0	Botafogo
+Claudiano Sobrino	Brazil	7474	Claudiano Sobrino	CDMCM	35	0	Chapecoense
+Robson Denho	Brazil	7474	Robson Denho	CDMCM	27	0	Sport
+Fabiano Sonta	Brazil	7474	Fabiano Sonta	CBCDM	27	0	Fluminense
+Miloš Degenek	Australia	7481	Miloš Degenek	CBCDM	25	1	Al Hilal
+Gastón Giménez	Argentina	7475	Gastón Giménez	CMCDM	27	1	Vélez Sarsfield
+Pape Cheikh Diop	Spain	7483	Pape Cheikh Diop	CMCDM	21	0	OL
+Anuar	Morocco	7482	Anuar	CDMCAMCM	24	1	R. Valladolid CF
+Orbelín Pineda	Mexico	7482	Orbelín Pineda	CMCAMCDM	23	3	Cruz Azul
+Ivaylo Chochev	Bulgaria	7477	Ivaylo Chochev	CMCDMLM	26	1	Palermo
+Kalvin Phillips	England	7480	Kalvin Phillips	CDMCB	23	0	Leeds United
+Walace	Brazil	7480	Walace	CDMCM	24	1	Hannover 96
+Bernard Mensah	Ghana	7481	Bernard MensahL	CAMCDM	24	3	Kayserispor
+Unai López	Spain	7480	Unai López	CMLMCDM	23	1	Athletic Club
+Philip Billing	Denmark	7483	Philip Billing	CMCDM	22	3	Huddersfield
+Renato Tapia	Peru	7479	Renato TapiaL	CDMCM	23	1	Willem II
+Bongani Zungu	South Africa	7477	Bongani Zungu	CDMCM	26	1	Amiens SC
+Rúben Semedo	Portugal	7480	Rúben SemedoL	CBCDM	25	0	Rio Ave FC
+Alan Browne	Republic of Ireland	7479	Alan Browne	CMCAMCDM	24	0	Preston
+Richard Ortiz	Paraguay	7474	Richard Ortiz	CDMCM	29	0	Free Agents
+Idris	Senegal	7474	Idris	CDM	34	0	Boavista FC
+Enzo Kalinski	Argentina	7474	Enzo Kalinski	CMCDM	32	0	Estudiantes
+Andrés Ricaurte	Colombia	7474	Andrés Ricaurte	CAMCDMCM	27	0	Indep. Medellín
+Ryan Christie	Scotland	7479	Ryan Christie	CAMCMCDMRM	24	1	Celtic
+Adrien Tameze	France	7478	Adrien Tameze	CMCDM	25	2	OGC Nice
+Róber	Spain	7482	RóberL	CBCDM	24	2	Levante UD
+Jérôme Gondorf	Germany	7474	Jérôme Gondorf	CMCDM	30	0	SC Freiburg
+Birger Verstraete	Belgium	7478	Birger Verstraete	CDMCM	25	0	KAA Gent
+Marc Stendera	Germany	7479	Marc Stendera	CMCAMCDM	23	1	Frankfurt
+Mikel Agu	Nigeria	7477	Mikel AguL	CDMCM	26	1	V. Setúbal
+Dimitrios Kourmpelis	Greece	7479	Dimitrios Kourmpelis	CDMCB	25	1	Panathinaikos
+Lucas Torró	Spain	7481	Lucas Torró	CDMCM	24	0	Frankfurt
+Héctor Canteros	Argentina	7474	Héctor Canteros	CMCDM	30	0	MKE Ankaragücü
+Isaac Hayden	England	7481	Isaac Hayden	CDMCM	24	1	Newcastle Utd
+André Poko	Gabon	7475	André Poko	CDMCMCAM	26	1	Göztepe
+Joe Ralls	England	7477	Joe Ralls	CMCDM	25	1	Cardiff City
+Pape Maly Diamanka	Senegal	7474	Pape Maly Diamanka	CDMCM	29	0	CD Numancia
+Marvin Bakalorz	Germany	7474	Marvin Bakalorz	CDMCM	29	0	Hannover 96
+Bruno Zuculini	Argentina	7477	Bruno Zuculini	CDMCM	26	0	River Plate
+Francisco Silva	Chile	7474	Francisco Silva	CDMCMCB	33	0	Independiente
+Eddy Gnahoré	France	7479	Eddy GnahoréL	CMCDM	25	0	Amiens SC
+Oscar Hiljemark	Sweden	7476	Oscar Hiljemark	CMCDM	26	0	Genoa
+Federico Viviani	Italy	7475	Federico VivianiL	CDMCM	27	1	Frosinone
+Johannes Geis	Germany	7477	Johannes Geis	CDMCBCM	25	3	Köln
+Darlington Nagbe	United States	7474	Darlington Nagbe	CMCDM	28	1	Atlanta United
+Graeme Shinnie	Scotland	7475	Graeme Shinnie	CDMLBCM	27	2	Aberdeen
+Alan Patrick	Brazil	7474	Alan Patrick	CAMCDM	28	0	Shakhtar Donetsk
+Timor	Spain	7474	Timor	CMCDM	29	1	UD Las Palmas
+Ilie Sánchez	Spain	7474	Ilie Sánchez	CDMCM	28	0	Sporting KC
+Bryan Dabo	Burkina Faso	7475	Bryan Dabo	CMCDM	27	0	Fiorentina
+Romain Amalfitano	France	7474	Romain Amalfitano	CMCDM	29	0	Dijon FCO
+Fredrik Midtsjø	Norway	7477	Fredrik Midtsjø	CMCDM	25	1	AZ
+Lorenzo Crisetig	Italy	7477	Lorenzo CrisetigL	CMCDM	26	2	Benevento
+Anselmo	Brazil	7474	Anselmo	CDMCM	30	0	Al Wehda
+Iñigo Pérez	Spain	7474	Iñigo Pérez	CDMCM	31	0	CA Osasuna
+Radosav Petrovic	Serbia	7474	Radosav Petrovic	CDM	30	0	Sporting CP
+Conor Hourihane	Republic of Ireland	7474	Conor Hourihane	CMCDM	28	0	Aston Villa
+Xavier Chavalerin	France	7474	Xavier Chavalerin	CDMCM	28	2	Stade de Reims
+Artur Ionita	Moldova	7474	Artur Ionita	CMCAMCDM	28	0	Cagliari
+Alejandro Bedoya	United States	7474	Alejandro Bedoya	CMCDM	32	0	Philadelphia
+Sandro	Brazil	7474	SandroL	CDMCM	30	3	Udinese
+Damien Le Tallec	France	7474	Damien Le Tallec	CDMCM	29	0	Montpellier HSC
+Nicola Rigoni	Italy	7474	Nicola Rigoni	CMCDM	28	0	Chievo Verona
+Josef Hušbauer	Czech Republic	7474	Josef Hušbauer	CMCDMCAM	29	0	Slavia Praha
+Mehmet Ekici	Turkey	7474	Mehmet Ekici	CAMCMCDM	29	0	Fenerbahçe
+Ryan Jack	Scotland	7477	Ryan Jack	CDMCM	27	0	Rangers
+Alfred N'Diaye	Senegal	7474	Alfred N'DiayeL	CMCDM	29	2	Málaga CF
+Mirko Valdifiori	Italy	7474	Mirko Valdifiori	CDMCM	33	1	SPAL
+Serey Dié	Ivory Coast	7474	Serey DiéL	CDMCM	34	2	Neuchâtel Xamax
+Denis Glushakov	Russia	7474	Denis Glushakov	CDMCM	32	1	Spartak Moscow
+Juan Cala	Spain	7474	Juan Cala	CBCDMCM	29	1	UD Las Palmas
+Harry Arter	Republic of Ireland	7474	Harry ArterL	CMCDM	29	1	Cardiff City
+Odil Akhmedov	Uzbekistan	7474	Odil Akhmedov	CMCDM	31	1	Shanghai SIPG
+Taras Mykhalyk	Ukraine	7474	Taras Mykhalyk	CBCDM	35	1	Lokomotiv Moscow
+Adrián González	Spain	7474	Adrián González	CMCAMCDMLM	31	0	Málaga CF
+Gustav Svensson	Sweden	7474	Gustav Svensson	CDMCBCM	32	0	Seattle Sounders
+Kevin McDonald	Scotland	7474	Kevin McDonald	CDM	30	0	Fulham
+Dennis Aogo	Germany	7474	Dennis Aogo	CDMLWBLBCM	32	0	VfB Stuttgart
+Faris Haroun	Belgium	7474	Faris Haroun	CDMCM	33	0	Royal Antwerp FC
+Andrés Pérez	Colombia	7474	Andrés Pérez	CDMCM	38	0	Ind. Santa Fe
+Pirmin Schwegler	Switzerland	7474	Pirmin Schwegler	CDMCM	32	2	Hannover 96
+Gökhan Inler	Switzerland	7474	Gökhan Inler	CDMCM	34	0	Basaksehir
+Alexandre Song	Cameroon	7474	Alexandre Song	CDMCM	31	2	FC Sion
+Steven Davis	Northern Ireland	7474	Steven DavisL	CMCDMCAM	34	1	Rangers
+Seoane	Spain	7474	Seoane	CDMCM	36	0	CD Lugo
+Renaud Cohade	France	7474	Renaud Cohade	CMCDM	34	0	FC Metz
+Tarantini	Portugal	7474	Tarantini	CMCDM	35	1	Rio Ave FC
+Mamadou Loum	Senegal	7382	Mamadou LoumL	CDMCM	22	0	FC Porto
+Mykola Shaparenko	Ukraine	7385	Mykola Shaparenko	CMCDMCAM	20	1	Dynamo Kyiv
+Ivan Šunjic	Croatia	7383	Ivan Šunjic	CDM	22	0	Dinamo Zagreb
+Uroš Racic	Serbia	7381	Uroš RacicL	CDMCM	21	0	CD Tenerife
+Stephen Eustáquio	Portugal	7384	Stephen Eustáquio	CDMCM	22	0	Cruz Azul
+Luis Milla	Spain	7380	Luis Milla	CDMCM	24	0	CD Tenerife
+Sandro Tonali	Italy	7390	Sandro Tonali	CDMCM	19	12	Brescia
+Manolis Siopis	Greece	7376	Manolis Siopis	CDMCM	25	0	Free Agents
+Saša Lukic	Serbia	7380	Saša Lukic	CDMCM	22	0	Torino
+Robin Koch	Germany	7379	Robin Koch	CDMCB	22	1	SC Freiburg
+Santiago Cáseres	Argentina	7383	Santiago Cáseres	CDMCM	22	2	Villarreal CF
+Yves Bissouma	Mali	7381	Yves Bissouma	CMCDM	22	2	Brighton
+Pedro Aquino	Peru	7378	Pedro Aquino	CDMCM	24	0	León
+Djamel Eddine Benlamri	Algeria	7373	Djamel Eddine Benlamri	CBRBCDM	29	0	Al Shabab
+Orel Mangala	Belgium	7384	Orel MangalaL	CMCDM	21	1	Hamburg
+Zubeldia	Spain	7380	Zubeldia	CDMCM	22	0	Real Sociedad
+Shogo Taniguchi	Japan	7374	Shogo Taniguchi	CBCDM	27	0	Kawasaki-F
+Rodrigo Aliendro	Argentina	7374	Rodrigo Aliendro	CDMCMRM	28	0	Atlético Tucumán
+Takehiro Tomiyasu	Japan	7384	Takehiro Tomiyasu	CBCDM	20	0	Sint-Truiden
+Jérémy Gélin	France	7383	Jérémy Gélin	CBCDM	22	0	Stade Rennais
+Marcos Paneira	Brazil	7373	Marcos Paneira	CDMCMRM	31	0	Bahia
+Luis Couprins	Brazil	7373	Luis Couprins	CDM	31	0	Atl. Paranaense
+Michel Cruceiro	Brazil	7373	Michel Cruceiro	CDMCM	27	0	Atlético Mineiro
+Juliano Mascarinhas	Brazil	7373	Juliano Mascarinhas	CDMCM	35	0	Grêmio
+Ailton Valpaços	Brazil	7373	Ailton Valpaços	CBCDM	27	0	Atlético Mineiro
+Assane Dioussé	Senegal	7381	Assane DiousséL	CMCDM	21	0	Chievo Verona
+Jacek Góralski	Poland	7377	Jacek Góralski	CDM	26	0	Free Agents
+Bryan Heynen	Belgium	7379	Bryan Heynen	CMCDM	22	1	KRC Genk
+André-Franck Zambo Anguissa	Cameroon	7379	André-Franck Zambo Anguissa	CDMCM	23	2	Fulham
+Cristian Roldan	United States	7379	Cristian Roldan	CDMCMRM	23	0	Seattle Sounders
+Ismaël Bennacer	Algeria	7383	Ismaël Bennacer	CMCDM	21	0	Empoli
+Baldomero Perlaza	Colombia	7376	Baldomero Perlaza	CDMCM	26	0	Ind. Santa Fe
+Andrei Girotto	Brazil	7374	Andrei Girotto	CDMCM	27	2	FC Nantes
+Uche Agbo	Nigeria	7380	Uche AgboL	CDMCM	23	1	Rayo Vallecano
+Jhon Duque	Colombia	7377	Jhon Duque	CDMCM	26	0	Millonarios
+Derrick Luckassen	Netherlands	7377	Derrick LuckassenL	CBCDM	23	1	Hertha BSC
+Nelson Acevedo	Argentina	7373	Nelson Acevedo	CMCDM	30	0	Unión
+Ozan Tufan	Turkey	7378	Ozan TufanL	CDMCM	24	2	Alanyaspor
+Andrés Cubas	Argentina	7380	Andrés Cubas	CDMCM	23	0	Talleres
+Peter Žulj	Austria	7377	Peter Žulj	CMCDMCAM	25	0	RSC Anderlecht
+Marcel Sobottka	Germany	7379	Marcel Sobottka	CDMCM	25	1	Düsseldorf
+Luca Mazzitelli	Italy	7378	Luca MazzitelliL	CMCDM	23	0	Genoa
+Jaïro Riedewald	Netherlands	7380	Jaïro Riedewald	CDMCB	22	1	Crystal Palace
+Víctor Cantillo	Colombia	7380	Víctor Cantillo	CDM	25	1	Junior
+Olivier Ntcham	France	7382	Olivier Ntcham	CMCDM	23	0	Celtic
+Didier Ndong	Gabon	7378	Didier Ndong	CDMCM	24	0	EA Guingamp
+Leonardo Gil	Argentina	7374	Leonardo Gil	CDMCM	27	0	Rosario Central
+Damián Musto	Argentina	7373	Damián MustoL	CDM	31	0	SD Huesca
+Federico Lértora	Argentina	7374	Federico Lértora	CDM	28	0	Belgrano
+Claudio Baeza	Chile	7375	Claudio Baeza	CMCDMCB	25	0	Al Ahli
+Esteban Pavez	Chile	7373	Esteban Pavez	CMCDM	29	0	CD Viñazur
+Yeison Gordillo	Colombia	7378	Yeison GordilloL	CDMCM	26	0	Deportes Tolima
+Iver Fossum	Norway	7378	Iver Fossum	CMCAMCDM	22	1	Hannover 96
+Rémi Walter	France	7379	Rémi Walter	CMCDM	24	2	OGC Nice
+Daniel Amartey	Ghana	7376	Daniel Amartey	RBCDMCM	24	1	Leicester City
+Wil Trapp	United States	7377	Wil Trapp	CDM	26	0	Columbus Crew SC
+João Schmidt	Brazil	7375	João SchmidtL	CMCDMLB	26	0	Nagoya Grampus
+José Rodríguez	Spain	7377	José RodríguezL	CDMCM	24	0	Fortuna Sittard
+Joris van Overeem	Netherlands	7376	Joris van Overeem	CMCDM	24	0	FC Utrecht
+Sergi Samper	Spain	7378	Sergi Samper	CDMCM	24	1	Vissel Kobe
+Yaya Banana	Cameroon	7375	Yaya Banana	CBCDMRB	27	2	Free Agents
+Gotoku Sakai	Japan	7373	Gotoku Sakai	RBCDMLB	28	1	Hamburg
+Tristan Dingomé	France	7373	Tristan Dingomé	CAMCMCDM	28	0	Stade de Reims
+Yussif Raman Chibsah	Ghana	7375	Yussif Raman Chibsah	CMCDM	26	0	Frosinone
+Massimo Luongo	Australia	7376	Massimo Luongo	CDMCM	26	0	QPR
+Tom Trybull	Germany	7375	Tom Trybull	CDMCM	26	0	Norwich
+David Pavelka	Czech Republic	7374	David Pavelka	CDMCM	28	0	Kasimpasa
+Diego Arias	Colombia	7373	Diego Arias	CDMCM	33	0	Indep. Medellín
+Matthias Ostrzolek	Germany	7373	Matthias Ostrzolek	LBLWBCDM	28	0	Hannover 96
+Marvin Knoll	Germany	7373	Marvin Knoll	CDMCB	28	0	St. Pauli
+Brecht Dejaegere	Belgium	7374	Brecht Dejaegere	CMRMCDMLM	27	0	KAA Gent
+André Martins	Portugal	7373	André Martins	CMCDM	29	1	Legia Warszawa
+Moritz Leitner	Germany	7375	Moritz Leitner	CMCDM	26	0	Norwich
+Muhamed Bešic	Bosnia Herzegovina	7378	Muhamed BešicL	CDMCM	26	1	Middlesbrough
+Tolga Cigerci	Turkey	7376	Tolga Cigerci	CDMCMLM	27	1	Fenerbahçe
+Musa Çagiran	Turkey	7375	Musa Çagiran	CDMCM	26	1	Çaykur Rizespor
+Taulant Xhaka	Albania	7374	Taulant Xhaka	CDMCMCB	28	1	FC Basel
+Vincent Pajot	France	7373	Vincent Pajot	CMCDM	28	1	Angers SCO
+Marlon Pack	England	7373	Marlon Pack	CMCDM	28	0	Bristol City
+
+
