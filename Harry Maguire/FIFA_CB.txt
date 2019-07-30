@@ -1,0 +1,120 @@
+﻿Virgil van Dijk	Netherlands	8991	Virgil van Dijk	CB	28	15	Liverpool
+Toby Alderweireld	Belgium	8787	Toby Alderweireld	CB	30	2	Spurs
+Jan Vertonghen	Belgium	8787	Jan Vertonghen	CB	32	1	Spurs
+Aymeric Laporte	France	8689	Aymeric Laporte	CBLB	25	2	Manchester City
+Azpilicueta	Spain	8585	Azpilicueta	RBCB	29	5	Chelsea
+Nicolás Otamendi	Argentina	8484	Nicolás Otamendi	CB	31	0	Manchester City
+Sokratis	Greece	8484	Sokratis	CB	31	0	Arsenal
+Vincent Kompany	Belgium	8484	Vincent Kompany	CB	33	1	Manchester City
+Davinson Sánchez	Colombia	8387	Davinson Sánchez	CB	23	4	Spurs
+John Stones	England	8387	John Stones	CB	25	5	Manchester City
+David Luiz	Brazil	8383	David Luiz	CB	32	2	Chelsea
+Antonio Rüdiger	Germany	8284	Antonio Rüdiger	CB	26	3	Chelsea
+Harry Maguire	England	8285	Harry Maguire	CB	26	31	Leicester City
+Laurent Koscielny	France	8282	Laurent Koscielny	CB	33	0	Arsenal
+Victor Lindelöf	Sweden	8187	Victor Lindelöf	CB	24	4	Manchester Utd
+Joel Matip	Cameroon	8183	Joel Matip	CB	27	2	Liverpool
+Dejan Lovren	Croatia	8181	Dejan Lovren	CB	30	1	Liverpool
+Shkodran Mustafi	Germany	8183	Shkodran Mustafi	CB	27	0	Arsenal
+Fabián Balbuena	Paraguay	8083	Fabián Balbuena	CB	27	0	West Ham
+Eric Bailly	Ivory Coast	8085	Eric Bailly	CB	25	2	Manchester Utd
+Andreas Christensen	Denmark	8087	Andreas Christensen	CB	23	1	Chelsea
+Nathan Aké	Netherlands	8084	Nathan Aké	CB	24	0	Bournemouth
+Chris Smalling	England	8080	Chris Smalling	CB	29	1	Manchester Utd
+Nacho Monreal	Spain	8080	Nacho Monreal	LBCB	33	1	Arsenal
+Leander Dendoncker	Belgium	7985	Leander DendonckerL	CDMCBCM	24	1	Wolves
+Michael Keane	England	7982	Michael Keane	CB	26	3	Everton
+Kurt Zouma	France	7983	Kurt ZoumaL	CB	24	2	Everton
+Jannik Vestergaard	Denmark	7980	Jannik Vestergaard	CB	26	2	Southampton
+James Tarkowski	England	7982	James Tarkowski	CB	26	1	Burnley
+Eric Dier	England	7983	Eric Dier	CDMCB	25	2	Spurs
+Marcos Rojo	Argentina	7979	Marcos Rojo	CB	29	1	Manchester Utd
+Phil Jones	England	7980	Phil Jones	CB	27	1	Manchester Utd
+Mamadou Sakho	France	7980	Mamadou Sakho	CB	29	1	Crystal Palace
+Jonny Evans	Northern Ireland	7979	Jonny Evans	CB	31	1	Leicester City
+Gary Cahill	England	7979	Gary Cahill	CB	33	0	Chelsea
+Joe Gomez	England	7888	Joe Gomez	CBRB	22	2	Liverpool
+Yerry Mina	Colombia	7883	Yerry Mina	CB	24	4	Everton
+Jamaal Lascelles	England	7882	Jamaal Lascelles	CB	25	2	Newcastle Utd
+Willy Boly	France	7880	Willy Boly	CB	28	1	Wolves
+Lewis Dunk	England	7880	Lewis Dunk	CB	27	0	Brighton
+Florian Lejeune	France	7880	Florian Lejeune	CB	28	0	Newcastle Utd
+Steve Cook	England	7878	Steve Cook	CB	28	0	Bournemouth
+Shane Duffy	Republic of Ireland	7880	Shane Duffy	CB	27	0	Brighton
+Christian Kabasele	Belgium	7880	Christian Kabasele	CB	28	0	Watford
+Ben Mee	England	7878	Ben Mee	CB	29	0	Burnley
+James Tomkins	England	7878	James Tomkins	CB	30	0	Crystal Palace
+Issa Diop	France	7786	Issa Diop	CB	22	1	West Ham
+Fabian Schär	Switzerland	7780	Fabian Schär	CB	27	0	Newcastle Utd
+Christopher Schindler	Germany	7778	Christopher Schindler	CB	29	0	Huddersfield
+Angelo Ogbonna	Italy	7777	Angelo Ogbonna	CB	31	0	West Ham
+Carlos Sánchez	Colombia	7777	Carlos Sánchez	CDMCB	33	0	West Ham
+Declan Rice	England	7687	Declan Rice	CDMCBCM	20	1	West Ham
+Rob Holding	England	7683	Rob Holding	CB	23	1	Arsenal
+Terence Kongolo	Netherlands	7681	Terence Kongolo	CBLB	25	1	Huddersfield
+Federico Fernández	Argentina	7676	Federico Fernández	CB	30	1	Newcastle Utd
+Eliaquim Mangala	France	7678	Eliaquim Mangala	CB	28	0	Manchester City
+Mathias Jørgensen	Denmark	7677	Mathias Jørgensen	CB	29	0	Huddersfield
+Ciaran Clark	Republic of Ireland	7677	Ciaran Clark	CB	29	0	Newcastle Utd
+Håvard Nordtveit	Norway	7677	Håvard NordtveitL	CBCDMRB	29	0	Fulham
+Craig Cathcart	Northern Ireland	7676	Craig Cathcart	CB	30	0	Watford
+Winston Reid	New Zealand	7676	Winston Reid	CB	31	0	West Ham
+Souleymane Bamba	Ivory Coast	7676	Souleymane Bamba	CB	34	0	Cardiff City
+Wes Morgan	Jamaica	7676	Wes Morgan	CB	35	0	Leicester City
+Stephan Lichtsteiner	Switzerland	7676	Stephan Lichtsteiner	RBCBRWB	35	0	Arsenal
+Phil Jagielka	England	7676	Phil Jagielka	CB	36	0	Everton
+Jan Bednarek	Poland	7583	Jan Bednarek	CB	23	2	Southampton
+Calum Chambers	England	7580	Calum ChambersL	CDMCBCM	24	4	Fulham
+Paul Dummett	Wales	7576	Paul Dummett	LBCB	27	0	Newcastle Utd
+Conor Coady	England	7578	Conor Coady	CB	26	0	Wolves
+Maya Yoshida	Japan	7575	Maya Yoshida	CB	30	0	Southampton
+Leon Balogun	Nigeria	7575	Leon Balogun	CBRB	31	1	Brighton
+Martin Kelly	England	7576	Martin Kelly	CBRB	29	0	Crystal Palace
+Scott Dann	England	7575	Scott Dann	CB	32	0	Crystal Palace
+Simon Francis	England	7575	Simon Francis	CBRB	34	0	Bournemouth
+Juan Foyth	Argentina	7485	Juan Foyth	CB	21	3	Spurs
+Çaglar Söyüncü	Turkey	7481	Çaglar Söyüncü	CB	23	0	Leicester City
+Alfie Mawson	England	7481	Alfie Mawson	CB	25	0	Fulham
+Jack Stephens	England	7480	Jack Stephens	CB	25	0	Southampton
+Ben Gibson	England	7479	Ben Gibson	CB	26	0	Burnley
+Maxime Le Marchand	France	7474	Maxime Le Marchand	CBLB	29	0	Fulham
+Bruno Ecuélé Manga	Gabon	7474	Bruno Ecuélé Manga	CBRB	30	1	Cardiff City
+Sean Morrison	England	7475	Sean Morrison	CB	28	0	Cardiff City
+Sebastian Prödl	Austria	7474	Sebastian Prödl	CB	32	0	Watford
+Adrian Mariappa	Jamaica	7474	Adrian Mariappa	CB	32	1	Watford
+Timothy Fosu-Mensah	Netherlands	7381	Timothy Fosu-MensahL	RBCB	21	0	Fulham
+Jaïro Riedewald	Netherlands	7380	Jaïro Riedewald	CDMCB	22	0	Crystal Palace
+Kevin Long	Republic of Ireland	7374	Kevin Long	CB	28	0	Burnley
+Miguel Britos	Uruguay	7373	Miguel Britos	CB	33	0	Watford
+Ryan Bennett	England	7373	Ryan Bennett	CB	29	1	Wolves
+Chris Mepham	Wales	7281	Chris Mepham	CB	21	0	Bournemouth
+Tim Ream	United States	7171	Tim Ream	CB	31	0	Fulham
+Dan Burn	England	7173	Dan Burn	CB	27	0	Brighton
+Philippe Sandler	Netherlands	7083	Philippe Sandler	CB	22	1	Manchester City
+Denis Odoi	Belgium	6969	Denis Odoi	CBRB	31	1	Fulham
+Konstantinos Mavropanos	Greece	6882	Konstantinos Mavropanos	CB	21	0	Arsenal
+Pleguezuelo	Spain	6877	Pleguezuelo	CB	22	0	Arsenal
+Jack Simpson	England	6675	Jack Simpson	CB	22	0	Bournemouth
+Jon Gorenc Stankovic	Slovenia	6676	Jon Gorenc Stankovic	CBCDM	23	0	Huddersfield
+Ryan Inniss	England	6673	Ryan Inniss	CB	24	0	Crystal Palace
+Matthew Connolly	England	6666	Matthew Connolly	RBCB	31	0	Cardiff City
+Ethan Ampadu	Wales	6586	Ethan Ampadu	CBCDM	18	1	Chelsea
+Ethan Laird	England	6482	Ethan Laird	RBLBCB	17	1	Manchester Utd
+Eric García	Spain	6484	Eric García	CB	18	0	Manchester City
+Sam Hughes	England	6475	Sam Hughes	CB	22	0	Leicester City
+Lee O'Connor	Republic of Ireland	6381	Lee O'Connor	LBRBCB	18	1	Manchester Utd
+James Garner	England	6383	James Garner	CDMCMCB	18	2	Manchester Utd
+Alfie Jones	England	6374	Alfie Jones	CB	21	0	Southampton
+Morgan Feeney	England	6379	Morgan Feeney	CB	20	0	Everton
+Japhet Tanganga	England	6278	Japhet Tanganga	CB	20	0	Spurs
+Cameron Humphreys-Grant	England	6277	Cameron Humphreys-Grant	CB	20	1	Manchester City
+Ryan Astley	Wales	6182	Ryan Astley	CBRB	17	0	Everton
+Ki-Jana Hoever	Netherlands	6185	Ki-Jana Hoever	RBCB	17	0	Liverpool
+Christoph Klarer	Austria	6177	Christoph Klarer	CB	19	0	Southampton
+Timothy Eyoma	England	6179	Timothy Eyoma	CBRB	19	0	Spurs
+Jonathan Dinzeyi	England	6177	Jonathan Dinzeyi	CB	19	1	Spurs
+Nathaniel Phillips	England	6174	Nathaniel Phillips	CB	22	0	Liverpool
+Zech Medley	England	6179	Zech Medley	CB	19	0	Arsenal
+Leo Østigård	Norway	6181	Leo Østigård	CB	19	0	Brighton
+Alexandru Pascanu	Romania	6177	Alexandru Pascanu	CBRB	20	0	Leicester City
+Conor Masterson	Republic of Ireland	6173	Conor Masterson	CB	20	0	Liverpool
