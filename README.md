@@ -1,3 +1,3 @@
 # fbtyics
 
-Source code for the twitter handle <a href = 'twitter.com/user/fbtyics'>fbtyics</a>.
+Source code for the twitter handle <a href = 'https://twitter.com/fbtyics'>fbtyics</a>.
